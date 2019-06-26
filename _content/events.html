@@ -13,7 +13,7 @@ permalink: /
 				<div class="col-lg-12 col-bottomless">
 					<div class="text-contain text-center">
 						<h1 class="h0">{{site.title}}</h1>
-						<p>{{site.description}} <a href="{{site.repo}}" class="arrow-right">Add an Event</a><p>
+						<p>{{site.description}} <a href="{{site.repo}}" class="arrow-right" title="Submit a dbt Event">Add an Event</a><p>
 					</div>
 				</div>
 			</div>
@@ -40,7 +40,7 @@ permalink: /
 				<div class="col-lg-12">
 					<div class="text-contain text-center">
 						<h3 class="h2">Open Source</h3>
-						<p>dbt Core is open source, distributed under the Apache 2.0 license. Check out the <a href='https://docs.getdbt.com'>docs</a> to get started, and get support from the <a href="https://slack.getdbt.com">dbt community</a>.</p>
+						<p>dbt Core is open source, distributed under the Apache 2.0 license. Check out the <a href="https://docs.getdbt.com" title="dbt Documentation">docs</a> to get started, and get support from the <a href="https://slack.getdbt.com" title="dbt on Slack">dbt community</a>.</p>
 					</div>
 				</div>
 			</div>
@@ -61,7 +61,7 @@ permalink: /
 					</div>
 					<hr/>
 					<p>{{event.description | truncatewords: 60}}</p>
-					<p class="margin-top"><a href="{{event.url}}" target="_blank" class="btn btn-sm btn-blue arrow-right">Event Website</a></p>
+					<p class="margin-top"><a href="{{event.url}}" target="_blank" class="btn btn-sm btn-blue arrow-right" title="dbt Events: {{event.name}}">Event Website</a></p>
 				</div>
 			</div>
 		</div>
