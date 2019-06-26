@@ -1,0 +1,22 @@
+
+select.form-control {
+	//height: $input-height-base;
+	line-height: 1;
+	&[data-status="default"] {
+		color: $light;
+		font-style: oblique;
+	}
+}
+
+
+.form-select {
+	$form-caret-push: .2rem;
+	background-size: .75em .75em;
+	background-repeat: no-repeat;
+	background-image: url('../img/carets/down.svg');
+	background-position: calc( 100% - .875em ) 50%;
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-right: 2.25em;
+	&::-ms-value { background: transparent !important; }
+}

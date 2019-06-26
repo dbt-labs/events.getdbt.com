@@ -1,0 +1,66 @@
+$editor-color: mix($normal,$dark);
+$editor-buffer: 2em;
+
+.editor {
+	&:not(.editor-sm) {
+		@include font-size-medium;
+		@include line-height(2);
+		color: $editor-color;
+		max-width: $phablet;
+		margin: auto;
+	}
+	> blockquote,
+	> ul,
+	> ol,
+	> p {
+		margin: 2em 0;
+	}
+	> *:first-child { margin-top: 0 !important; }
+	> *:last-child { margin-bottom: 0 !important; }
+	
+	blockquote {
+		padding-left: $editor-buffer;
+		font-style: normal;
+		font-weight: 500;
+		color: $blue;
+		
+		&:before {
+			content: '';
+			display: block;
+			position: absolute;
+			top: 0;
+			left: 0;
+			bottom: 0;
+			width: 2px;
+			background: currentColor;
+			opacity: .333;
+		}
+	}
+	ul, ol {
+		padding-left: $editor-buffer;
+		list-style-type: none;
+		counter-reset: list;
+		li {
+			counter-increment: list;
+			margin-bottom: .5em;
+			&:before {
+				font-weight: bold;
+				position: absolute;
+				left: -$editor-buffer;
+				color: $blue;
+			}
+		}
+	}
+	ul li:before {
+		content: '•';
+		@include transform(scale(1.5));
+	}
+	ol li:before {
+		content: counters(list,".")".";
+	}
+
+	// em {
+	// 	opacity: .5;
+	// }
+	
+}

@@ -1,0 +1,49 @@
+.logos {
+	&-content {
+		font-size: 0;
+		line-height: 0;
+		@include scale-px(margin-left margin-right,-5px,-15px);
+	}
+}
+
+.logo {
+	display: block;
+	border: 15px solid transparent;
+	@include scale-px(border-width,5px,15px);
+	.logos & {
+		display: inline-block;
+		@include scale-px(width,100px,198px);
+	}
+	&-graphic {
+		background: white no-repeat 50% 50% / contain;
+		border-radius: $border-radius-base;
+		@include transitions;
+		@include shadow;
+		&:before {
+			content: '';
+			display: block;
+			padding-bottom: 50%;
+		}
+	}
+	&-name {
+		display: none;
+	}
+}
+
+
+a.logo:hover {
+	.logo-graphic { @include shadow(15px); }
+}
+
+// // css grid doesn't work in ie11, but the fallback is fine
+// html.cssgrid {
+// 	.logos-content {
+// 		display: grid;
+// 		grid-template-columns: repeat(auto-fit,  minmax(calc(8% + 70px),1fr));
+// 		.logo {
+// 			display: block;
+// 			width: 100%;
+
+// 		}
+// 	}
+// }

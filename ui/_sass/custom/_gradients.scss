@@ -1,0 +1,4 @@
+.gradient {
+	&-red { @include gradient(#d72b58,#ffa74d,135deg); }
+	&-navy { @include gradient(darkest($navy),lighter($navy),135deg); }
+}

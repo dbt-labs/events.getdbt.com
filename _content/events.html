@@ -1,0 +1,69 @@
+---
+title: Events
+permalink: /
+---
+
+{% assign events = site.data.events %}
+
+<div class="bg-silver-light">
+	<div class="mask mask-ne text-white"></div>
+	<div class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-bottomless">
+					<div class="text-contain-large text-center">
+						<h1 class="h0">{{site.title}}</h1>
+						<p>{{site.description}} <a href="https://github.com/fishtown-analytics/dbt-community-ev" class="arrow-right">Add an Event</a><p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<div id="upcomingevents" data-placeholder="There are no upcoming events..."></div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-lg-12 text-center">
+					<h3>Past Events</h3>
+					<div id="pastevents" data-placeholder="There are no past events..."></div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="bg-white">
+	<div class="mask mask-nw text-silver-light"></div>
+	<div class="section">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="text-contain text-center">
+						<h3 class="h2">Open Source</h3>
+						<p>dbt Core is open source, distributed under the Apache 2.0 license. Check out the <a href='https://docs.getdbt.com'>docs</a> to get started, and get support from the <a href="https://slack.getdbt.com">dbt community</a>.</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="events" style="display: none;">
+	{% for event in events %}
+		<div class="event preview margin-large" data-event-date="{{event.start | date: '%Y%m%d'}}">
+			<div class="preview-header bg-silver" data-bg="{{event.image}}"></div>
+			<div class="preview-body">
+				<div class="preview-text">
+					<div class="compact">
+						<h6>{{event.start | date: '%b %d, %Y'}}</h6>
+						<h3>{{event.name}}</h3>
+						<p><span>{{event.type}}</span> &mdash; <span>{{event.location}}</span></p>
+					</div>
+					<hr/>
+					<p>{{event.description | truncatewords: 60}}</p>
+					<p class="margin-top"><a href="{{event.url}}" target="_blank" class="btn btn-sm btn-blue arrow-right">Event Website</a></p>
+				</div>
+			</div>
+		</div>
+	{% endfor %}
+</div>

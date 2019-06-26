@@ -1,0 +1,41 @@
+# --------------------------------------------------
+# Site settings
+
+title: dbt Events
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...
+owner: http://github.com/fishtown-analytics
+  robots: true
+
+nav_links:
+  home: https://www.getdbt.com
+  signup: https://cloud.getdbt.com/signup
+
+# --------------------------------------------------
+# Site imagery
+
+favicon: /favicon.ico
+avatar: /ui/img/graph/avatar.png
+poster: /ui/img/graph/poster.png
+
+# --------------------------------------------------
+# Build settings
+
+includes_dir: _config/_includes
+layouts_dir: _config/_layouts
+
+sass:
+  style: compressed
+  sass_dir: ui/_sass
+
+collections:
+  content:
+    output: true
+    permalink: /:path/
+
+defaults:
+-
+  scope:
+    path: ""
+    type: "content"
+  values:
+    layout: "page"

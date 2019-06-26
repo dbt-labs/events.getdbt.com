@@ -1,0 +1,5 @@
+.footer {
+	color: $light;
+	@include font-size-small;
+	a { color: inherit; }
+}

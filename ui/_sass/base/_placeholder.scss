@@ -1,0 +1,5 @@
+[data-placeholder]:empty {
+	&:before {
+		content: attr(data-placeholder);
+	}
+}

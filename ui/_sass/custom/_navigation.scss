@@ -1,0 +1,55 @@
+
+
+.navigation {
+	@include font-size-small;
+	color: $dark;
+	&-brand {
+		color: inherit !important;
+		max-width: 120px;
+		@include transitions;
+		@include active { @include transform(scale(1.05)); }
+		&-text { display: none; }
+		&-logo {
+			width: 100px;
+			&:before {
+				content: '';
+				display: block;
+				padding-bottom: percentage(24/88);
+			}
+			svg {
+				display: block;
+				@include fill;
+				fill: currentColor;
+			}
+		}
+	}
+	&-content, &-links {
+		@include flex-row;
+		@include flex-wrap;
+		@include flex-align(center);
+	}
+	&-content {
+		@include flex-justify(space-between);
+	}
+	&-links, &-link {
+		@include flex(0,0,auto);
+	}
+	&-links {
+		@include scale-px(margin-left margin-right,-10px,-20px);
+	}
+	&-link {
+		@include scale-px(margin-left margin-right,10px,20px);
+	}
+	&-anchor {
+		padding: 10px 0;
+		display: block;
+		font-weight: 500;
+		color: inherit;
+		&.active {
+			color: $brand;
+		}
+	}
+	&-menu {
+		margin-left: 16px;
+	}
+}

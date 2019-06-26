@@ -1,0 +1,16 @@
+
+.alert {
+	@include font-size-base;
+	@include compact;
+	&.alert-default {
+		background: $silver-light;
+		color: $light;
+	}
+	border: 0;
+	//font-style: oblique;
+	margin-bottom: 12px;
+	#{h()}, strong {
+		color: inherit !important;
+		font-style: normal;
+	}
+}

@@ -1,0 +1,24 @@
+
+.mask {
+	@include fill;
+	overflow: hidden;
+	color: white;
+	pointer-events: none;
+	&:before {
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+		content: '';
+		position: absolute;
+		box-shadow: 0 0 0 100vw currentColor;
+		@include scale-px(border-radius,10px,25px);
+		@include scale-px(left right,-300px,0px);
+	}
+	&-se:before, &-ne:before { left: -100% !important; }
+	&-sw:before, &-nw:before { right: -100% !important; }
+	&-ne:before, &-nw:before { bottom: -1px; }
+	&-se:before, &-sw:before { top: -1px; }
+	&-ne:before, &-sw:before { @include transform(skew(30deg)); }
+	&-se:before, &-nw:before { @include transform(skew(-30deg)); }
+}

@@ -1,0 +1,40 @@
+$diagram-max: 900;
+
+.diagram {
+	svg {
+		max-width: 1200px;
+		display: block;
+		margin: auto;
+		fill: currentColor;
+		#transformed > * {
+			stroke-dasharray: 44px 6px;
+			stroke-dashoffset: 100;
+			// animation: march .5s linear infinite forwards;
+		}
+		#dashes > * {
+			stroke-dasharray: 2px 6px;
+			stroke-dashoffset: 64;
+			// animation: march 6s linear infinite forwards;
+		}
+		#arrows > * {
+			stroke-dasharray: 14px 6px;
+			stroke-dashoffset: 100;
+			// animation: march 1s linear infinite forwards;
+		}
+	}
+}
+
+@include keyframes(draw) {
+	to { stroke-dashoffset: 0; }
+}
+
+@include keyframes(march) {
+	to { stroke-dashoffset: 0; }
+}
+
+
+.diagram-img {
+	max-width: 1200px;
+	display: block;
+	margin: auto;
+}

@@ -1,0 +1,21 @@
+.list-group {
+	@include component;
+	.list-group-item {
+		@include compact;
+		margin: 0;
+		border-width: 0 0 1px 0;
+		padding: $padding-base-vertical $padding-base-horizontal;
+		&:last-child {
+			border-width: 0;
+		}
+		&.active {
+			* { color: inherit; }
+		}
+		&.arrow-right:after {
+			position: absolute;
+			top: 50%;
+			right: 24px;
+			@include transform(translateY(-50%));
+		}
+	}
+}

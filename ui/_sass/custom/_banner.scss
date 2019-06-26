@@ -1,0 +1,20 @@
+.banner {
+	&-animation {
+		@include fill;
+		//overflow: hidden;
+		svg {
+			position: absolute;
+			top: 0;
+			right: 0;
+			height: 100%;
+			@include large { min-height: 720px; }
+			@include small { max-height: 100vw; }
+			max-width: none;
+			#lines > * {
+				stroke-dasharray: 4px 6px;
+				stroke-dashoffset: 60;
+				@include animation(march 4s linear infinite forwards);
+			}
+		}
+	}
+}
