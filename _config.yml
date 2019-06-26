@@ -2,9 +2,10 @@
 # Site settings
 
 title: dbt Events
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...
+description: Meet dbt creators and members of the community in-person! Here’s where we’ll be speaking, hosting, or attending. Have an event you’d like to share?
 owner: http://github.com/fishtown-analytics
-  robots: true
+repo: https://github.com/fishtown-analytics/dbt-community-events
+robots: true
 
 nav_links:
   home: https://www.getdbt.com
