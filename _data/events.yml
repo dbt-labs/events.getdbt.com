@@ -6,31 +6,31 @@
 # description: sentence or two (max 60 words)
 
 
-- name: AWS Summit Chicago
-  type: Conference
-  start: July 27, 2020
-  location: San Francisco, CA, USA
-  url: https://about.gitlab.com/events/aws-summit-chicago/
-  image: https://images.unsplash.com/photo-1449034446853-66c86144b0ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend..."
-- name: AWS Summit Chicago
-  type: Conference
-  start: May 27, 2020
-  location: Chicago, IL, USA
-  url: https://about.gitlab.com/events/aws-summit-chicago/
-  image: https://images.unsplash.com/photo-1524168272322-bf73616d9cb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- name: AWS Summit Chicago
-  type: Conference
-  start: February 27, 2019
-  location: Chicago, IL, USA
-  url: https://about.gitlab.com/events/aws-summit-chicago/
-  image: https://images.unsplash.com/photo-1524168272322-bf73616d9cb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-- name: AWS Summit Chicago
-  type: Conference
-  start: March 27, 2019
-  location: Austin, TX, USA
-  url: https://about.gitlab.com/events/aws-summit-chicago/
-  image: https://images.unsplash.com/photo-1530089711124-9ca31fb9e863?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60
-  description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Donec elementum ligula eu sapien consequat eleifend. Donec nec dolor erat, condimentum sagittis sem. Praesent porttitor porttitor risus, dapibus rutrum ipsum gravida et. Integer lectus nisi, facilisis sit amet eleifend..."
+- name: dbt Meetup at Casper
+  type: Meetup
+  start: July 31, 2019
+  location: New York
+  url: https://www.meetup.com/NYC-dbt-Meetup/events/262510942/
+  image: https://images.unsplash.com/photo-1467521335787-2f0fc0f0e9a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1745&q=80
+  description: "This event is hosted by Casper and open to all folks working with data—while we'll predominantly focus on people's experience with dbt, we're also very interested in broader topics that apply to modern data teams, such as data stacks, data ops, modeling, testing, and team structures."
+- name: dbt Meetup at Grove Collaborative
+  type: Meetup
+  start: June 12, 2019
+  location: San Francisco
+  url: https://www.meetup.com/SF-dbt-Meetup/events/261495330/
+  image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+  description: "This event is hosted by Grove Collaborative and open to all folks working with data—while we'll predominantly focus on people's experience with dbt, we're also very interested in broader topics that apply to modern data teams, such as data stacks, data ops, modeling, testing, and team structures."
+- name: dbt Learn
+  type: Education
+  start: June 10, 2019
+  location: San Francisco
+  url: https://www.eventbrite.com/e/dbt-learn-june-2019-tickets-60106821120
+  image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+  description: "dbt Learn in June will be a two day in-person training program designed to empower analysts. The only technical requirements needed is a practical knowledge of SQL, leave the rest to us!"
+- name: dbt Learn
+  type: Education
+  start: February 6, 2019
+  location: Philadelphia
+  url: https://www.eventbrite.com/e/dbt-learn-february-2019-tickets-53954183415#
+  image: https://images.unsplash.com/photo-1516508636691-2ea98becb2f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
+  description: "dbt Learn is a three day in-person training program designed to empower analysts. The only technical requirements needed is a practical knowledge of SQL, leave the rest to us!"
