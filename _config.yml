@@ -2,7 +2,7 @@
 # Site settings
 
 title: dbt Events
-description: Meet dbt creators and members of the community in-person! Here’s where we’ll be speaking, hosting, or attending. Have an event you’d like to share?
+description: Meet dbt creators and members of the community in person! Here’s where we’ll be speaking, hosting, or attending. Have an event you’d like to share?
 owner: http://github.com/fishtown-analytics
 repo: https://github.com/fishtown-analytics/dbt-community-events
 robots: true
