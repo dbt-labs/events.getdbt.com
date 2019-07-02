@@ -4,12 +4,24 @@
 title: dbt Events
 description: Meet dbt creators and members of the community in-person! Here’s where we’ll be speaking, hosting, or attending. Have an event you’d like to share?
 owner: http://github.com/fishtown-analytics
-repo: https://github.com/fishtown-analytics/dbt-community-events
+repo: https://github.com/fishtown-analytics/events.getdbt.com
 robots: true
 
 nav_links:
   home: https://www.getdbt.com
-  signup: https://cloud.getdbt.com/signup
+  slack: https://slack.getdbt.com
+  repo: https://github.com/fishtown-analytics/dbt
+  install: https://docs.getdbt.com/docs/installation
+  docs: https://docs.getdbt.com/docs/introduction
+  discourse: https://discourse.getdbt.com/
+  events: https://events.getdbt.com
+  blog: https://blog.getdbt.com
+  add_event: https://github.com/fishtown-analytics/events.getdbt.com
+
+  product: https://www.getdbt.com/product
+  ecosystem: https://www.getdbt.com/ecosystem
+  users: https://www.getdbt.com/users
+  pricing: https://www.getdbt.com/pricing
 
 # --------------------------------------------------
 # Site imagery

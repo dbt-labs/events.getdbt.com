@@ -5,15 +5,60 @@
 				<div class="navigation-content">
 					<div class="navigation-links">
 						<div class="navigation-link">
-							<a class="navigation-anchor navigation-brand" href="{{site.nav_links.home}}" title="{{site.description}}">
+							<a class="navigation-anchor navigation-brand" href="{{site.url}}/" title="{{site.description}}">
 								<div class="navigation-brand-logo">{% include svg/logo.svg %}</div>
 								<strong class="navigation-brand-text">{{site.title}} - {{site.description}}</strong>
 							</a>
 						</div>
+						<div class="navigation-link" data-large>
+							<a class="navigation-anchor" href="{{site.nav_links.product}}">Product</a>
+						</div>
+						<div class="navigation-link" data-large>
+							<a class="navigation-anchor" href="{{ site.nav_links.docs }}" target="_blank">Docs</a>
+						</div>
+						<div class="navigation-link dropdown" data-large>
+							<a class="navigation-anchor arrow-down" href="#" data-toggle="dropdown">Community</a>
+							<ul class="dropdown-menu">
+								<li><a href="{{ site.nav_links.slack }}" target="_blank"><i data-icon="slack" class="md icon-before"></i> Slack Channel</a></li>
+								<li><a href="{{ site.nav_links.repo }}" target="_blank"><i data-icon="github" class="md icon-before"></i> Github</a></li>
+								<li><a href="{{ site.nav_links.discourse }}" target="_blank"><i data-icon="discourse" class="md icon-before"></i> Discourse</a></li>
+								<li class="divider"></li>
+								<li><a href="{{ site.nav_links.users }}"><i data-icon="heart-empty" class="md icon-before"></i> Users</a></li>
+								<li><a href="{{ site.nav_links.ecosystem }}"><i data-icon="rocket" class="md icon-before"></i> Ecosystem</a></li>
+							</ul>
+						</div>
+						<div class="navigation-link" data-large>
+							<a class="navigation-anchor" href="{{ site.nav_links.pricing }}">Pricing</a>
+						</div>
+						<div class="navigation-link dropdown" data-large>
+							<a class="navigation-anchor arrow-down active" href="#" data-toggle="dropdown">Resources</a>
+							<ul class="dropdown-menu">
+								<li><a href="{{ site.nav_links.blog }}" target="_blank"><i data-icon="rss" class="md icon-before"></i> Blog</a></li>
+                                <li><a href="{{ site.base_url }}"><i data-icon="calendar" class="md icon-before"></i> Events</a></li>
+							</ul>
+						</div>
 					</div>
-					<div class="navigation-links">
+					<div class="navigation-links" data-large>
 						<div class="navigation-link">
-							<a href="{{ site.nav_links.signup }}" class="btn btn-outline btn-sm text-brand">Sign Up</a>
+							<a href="{{ site.nav_links.add_event }}" class="btn btn-outline btn-sm text-brand">Add an event</a>
+						</div>
+					</div>
+					<div class="navigation-links" data-small>
+						<div class="navigation-link navigation-menu dropdown">
+							<a class="navigation-anchor arrow-menu arrow-large text-larger" href="#" data-toggle="dropdown"></a>
+							<ul class="dropdown-menu dropdown-menu-right">
+								<li><a class="navigation-anchor" href="{{site.nav_links.product}}">Product</a></li>
+								<li><a class="navigation-anchor" href="{{site.nav_links.pricing}}">Pricing</a></li>
+								<div class="divider"></div>
+								<li><a href="{{ site.nav_links.blog }}" target="_blank">Blog</a></li>
+								<li><a href="{{ site.base_url }}" target="_blank">Events</a></li>
+								<div class="divider"></div>
+								<li><a href="{{ site.nav_links.slack }}" target="_blank">Slack Channel</a></li>
+								<li><a href="{{ site.nav_links.repo }}" target="_blank">Github</a></li>
+								<li><a href="{{ site.nav_links.discourse }}" target="_blank">Discourse</a></li>
+								<li><a href="{{ site.nav_links.users }}">Users</a></li>
+								<li><a href="{{ site.nav_links.ecosystem }}">Ecosystem</a></li>
+							</ul>
 						</div>
 					</div>
 				</div>

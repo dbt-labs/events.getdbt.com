@@ -2,7 +2,7 @@
   font-family: 'entypo';
   font-weight: normal;
   font-style: normal;
-  src: url('../fonts/entypo/entypo.woff') format('woff');
+  src: url('../fonts/entypo/entypo-2.woff') format('woff');
 }
 
 [data-icon] {
@@ -23,7 +23,7 @@
     line-height: 1;
     font-size: 18px;
     top: -5px;
-    margin-top: -1px;
+    margin-top: -3px;
     position: relative;
     text-align: center;
     display: block;
@@ -327,5 +327,6 @@
 @include icon(sweden,'\e8cc');
 @include icon(db-shape,'\e8cd');
 @include icon(bitbucket,'\20AC');
-@include icon(slack,'\00B4');
-@include icon(fishtown,'\002A');
+@include icon(slack,'\0024');
+@include icon(fishtown,'\00A2');
+@include icon(discourse,'\00A3');
