@@ -5,7 +5,27 @@
 # image: external url
 # description: sentence or two (max 60 words)
 
-
+- name: dbt Meetup at RVU
+  type: Meetup
+  start: September 5, 2019
+  location: London
+  url: https://www.meetup.com/London-dbt-Meetup/events/264032117/
+  image: https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  description: "After the highs of the first London dbt meetup and the even higher highs of the second meetup, we are set to bring you a trilogy (read: summer) ending meetup that will set up the dbt meetup universe for prequels, spin-offs and comics for years to come. Get the date in your diaries!"
+- name: 3rd London Datacouncil Meetup
+  type: Meetup
+  location: London
+  start: September 12, 2019
+  url: https://www.meetup.com/DataCouncil-AI-London-Data-Engineering-and-Science/events/263587160/
+  image: https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  description: "Stephen Whitworth, Data Engineering Lead at Monzo Bank, will be talking about his experience migrating the UK's favorite online bank to dbt."
+- name: JOIN 2019
+  type: Conference
+  location: San Francisco
+  start: November 5, 2019
+  url: https://looker.com/events/join
+  image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+  description: "Looker JOIN is an excellent place to find and learn from Looker + dbt power users."
 - name: dbt Meetup at Casper
   type: Meetup
   start: July 31, 2019
