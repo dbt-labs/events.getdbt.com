@@ -5,6 +5,20 @@
 # image: external url
 # description: sentence or two (max 60 words)
 
+- name: dbt Learn
+  type: Education
+  start: October 24, 2019
+  location: London
+  url: https://learn.getdbt.com/
+  image: https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+- name: Defining and Redefining Data
+  type: Meetup
+  start: September 19, 2019
+  location: Montreal
+  url: https://www.meetup.com/mtldata/events/264170235/
+  image: https://images.unsplash.com/photo-1526669754135-c1babeb8c542?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
+  description: "Join us to talk about how to streamline the process of initially defining and later re-defining your data model. What should engineers be doing? What should analysts and data scientists being doing? How can we all just get along?"
 - name: dbt Meetup at RVU
   type: Meetup
   start: September 5, 2019
