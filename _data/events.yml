@@ -4,7 +4,13 @@
 # location: City, Province, Country
 # image: external url
 # description: sentence or two (max 60 words)
-
+- name: dbt Meetup at ThoughtWorks
+  type: Meetup
+  start: October 9, 2019
+  location: Sydney
+  url: https://www.meetup.com/Sydney-DBT-Meetup/events/264981495/
+  image: "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+  description: "With local companies like Vero, Airtasker and NearMap using dbt, Sydney is home to one of our most active dbt communities! Join us for the inaugral Sydney dbt Meetup."
 - name: dbt Learn
   type: Education
   start: October 24, 2019
