@@ -10,7 +10,7 @@
   start: November 5, 2019
   location: San Francisco
   url: https://www.meetup.com/SF-dbt-Meetup/events/265127661/
-  image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+  image: https://images.unsplash.com/photo-1534050359320-02900022671e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3276&q=80
   description: We're in town for Looker JOIN, so will be making the most of this trip by coupling it with a dbt Meetup! Join us to talk all things analytics engineering and dbt!
 - name: dbt Meetup at Warby Parker
   type: Meetup
