@@ -7,35 +7,35 @@
 #   description: sentence or two (max 60 words)
 - name: dbt Learn
   type: Education
-  start: April 15-16, 2020
+  start: April 15, 2020
   location: San Francisco
   url: https://www.tickettailor.com/events/fishtownanalytics/337074
   image: https://images.unsplash.com/photo-1534050359320-02900022671e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3276&q=80
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn
   type: Education
-  start: April 2-3, 2020
+  start: April 2, 2020
   location: London
   url: https://www.tickettailor.com/events/fishtownanalytics/337074
   image: https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn
   type: Education
-  start: March 19-20, 2020
+  start: March 19, 2020
   location: New York
   url: https://www.tickettailor.com/events/fishtownanalytics/337074
   image: https://images.unsplash.com/photo-1467521335787-2f0fc0f0e9a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1745&q=80
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn
   type: Education
-  start: March 5-6, 2020
+  start: March 5, 2020
   location: Montreal
   url: https://www.tickettailor.com/events/fishtownanalytics/337074
   image: https://images.unsplash.com/photo-1526669754135-c1babeb8c542?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn
   type: Education
-  start: February 20-21, 2020
+  start: February 20, 2020
   location: Los Angeles
   url: https://www.tickettailor.com/events/fishtownanalytics/337074
   image: https://images.unsplash.com/photo-1554143091-c41d76e3da15?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=750&q=80
