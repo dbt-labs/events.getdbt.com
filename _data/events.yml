@@ -1,10 +1,31 @@
-# name: title
-# type: short label
-# start: Month Day, Year
-# location: City, Province, Country
-# image: external url
-# description: sentence or two (max 60 words)
-
+# - name: title
+#   type: short label
+#   start: Month Day, Year
+#   location: City, Province, Country
+#   url: external url
+#   image: external url
+#   description: sentence or two (max 60 words)
+- name: dbt Meetup at Envoy
+  type: Meetup
+  start: November 5, 2019
+  location: San Francisco
+  url: https://www.meetup.com/SF-dbt-Meetup/events/265127661/
+  image: https://images.unsplash.com/photo-1534050359320-02900022671e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3276&q=80
+  description: We're in town for Looker JOIN, so will be making the most of this trip by coupling it with a dbt Meetup! Join us to talk all things analytics engineering and dbt!
+- name: dbt Meetup at Warby Parker
+  type: Meetup
+  start: October 9, 2019
+  location: New York City
+  url: https://www.meetup.com/NYC-dbt-Meetup/events/265127368/
+  image: https://images.unsplash.com/photo-1467521335787-2f0fc0f0e9a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1745&q=80
+  description: This event is hosted by Warby Parker and open to all folks working with data—while we'll predominantly focus on people's experience with dbt, we're also very interested in broader topics related to analytics engineering, such as data stacks, data ops, modeling, testing, and team structures.
+- name: dbt Meetup at ThoughtWorks
+  type: Meetup
+  start: October 9, 2019
+  location: Sydney
+  url: https://www.meetup.com/Sydney-DBT-Meetup/events/264981495/
+  image: "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
+  description: "With local companies like Vero, Airtasker and NearMap using dbt, Sydney is home to one of our most active dbt communities! Join us for the inaugral Sydney dbt Meetup."
 - name: dbt Learn
   type: Education
   start: April 15-16, 2019
