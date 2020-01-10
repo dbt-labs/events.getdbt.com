@@ -7,6 +7,41 @@
 
 - name: dbt Learn
   type: Education
+  start: April 15-16, 2019
+  location: San Francisco
+  url: https://www.tickettailor.com/events/fishtownanalytics/337074
+  image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
+  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+- name: dbt Learn
+  type: Education
+  start: April 2-3, 2019
+  location: London
+  url: https://www.tickettailor.com/events/fishtownanalytics/337072
+  image: https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
+  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+- name: dbt Learn
+  type: Education
+  start: March 19-20, 2019
+  location: New York City
+  url: https://www.tickettailor.com/events/fishtownanalytics/337071
+  image: https://images.unsplash.com/photo-1467521335787-2f0fc0f0e9a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1745&q=80
+  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+- name: dbt Learn
+  type: Education
+  start: March 5-6, 2019
+  location: Montreal
+  url: https://www.tickettailor.com/events/fishtownanalytics/337069
+  image: https://images.unsplash.com/photo-1526669754135-c1babeb8c542?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
+  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+- name: dbt Learn
+  type: Education
+  start: February 20-21, 2019
+  location: Los Angeles
+  url: https://www.tickettailor.com/events/fishtownanalytics/337072/
+  image: https://unsplash.com/photos/GqGgPA2swJA
+  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+- name: dbt Learn
+  type: Education
   start: October 24, 2019
   location: London
   url: https://learn.getdbt.com/
