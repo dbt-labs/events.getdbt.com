@@ -9,8 +9,8 @@
   type: Education
   start: April 15, 2020
   location: San Francisco
-  url: https://drive.google.com/file/d/1dP0LuRHoLIycT0b8Vh4twzU7iUSQ4Zb3/view
-  image: https://images.unsplash.com/photo-1534050359320-02900022671e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3276&q=80
+  url: https://www.tickettailor.com/events/fishtownanalytics/337074
+  image: https://drive.google.com/drive/u/0/folders/1KoqIbRVU8R-2SBlC6hE9nZ_OzQ4_ZPZC
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn
   type: Education
@@ -91,11 +91,7 @@
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn
   type: Education
-  start: February 20-21, 2019
-  location: Los Angeles
-  url: https://www.tickettailor.com/events/fishtownanalytics/334185
-  image: https://unsplash.com/photos/GqGgPA2swJA
-  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+  start: February 20, 2019
 - name: dbt Learn
   type: Education
   start: October 24, 2019
