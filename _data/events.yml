@@ -5,6 +5,27 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: dbt Meetup at Bowery Farming
+  type: Meetup
+  start: February 27, 2020
+  location: New York City
+  url: https://www.meetup.com/NYC-dbt-Meetup/events/268089367/
+  image: https://images.unsplash.com/photo-1467521335787-2f0fc0f0e9a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1745&q=80
+  description: It's been three months since the last New York Meetup! Looking forward to see familiar and new faces alike.
+- name: dbt Learn
+  type: Education
+  start: May 4, 2020
+  location: Melbourne
+  url: https://www.tickettailor.com/events/fishtownanalytics/342088
+  image: https://images.unsplash.com/photo-1546268060-2592ff93ee24?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1500&q=80
+  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+- name: dbt Learn
+  type: Education
+  start: May 11, 2020
+  location: Sydney
+  url: https://www.tickettailor.com/events/fishtownanalytics/342090/
+  image: https://drive.google.com/drive/u/0/folders/1KoqIbRVU8R-2SBlC6hE9nZ_OzQ4_ZPZC
+  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn
   type: Education
   start: April 15, 2020
