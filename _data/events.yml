@@ -58,8 +58,8 @@
   type: Education
   start: February 20, 2020
   location: Los Angeles
-  url: https://i.imgur.com/Afed3uq.jpg
-  image: https://photos.google.com/album/AF1QipOjoH7EPlKoAaqEJZK2_7JY4Rg-4KKc9uvIRMJ8/photo/AF1QipOKTUK_9Itm2pC4opZdtEBdeX7wNAlXPW3UldDu
+  url: https://www.tickettailor.com/events/fishtownanalytics/334185
+  image: https://i.imgur.com/Afed3uq.jpg
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Meetup at Envoy
   type: Meetup
