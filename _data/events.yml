@@ -5,6 +5,15 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+
+- name: Coalesce 2020
+  type: Conference
+  start: August 20, 2020
+  location: New York
+  url: https://www.tickettailor.com/events/fishtownanalytics/331434#
+  image: https://i.imgur.com/yhvcomQ.png
+  description: The only analytics engineering conference. 
+- name: dbt Learn
 - name: dbt Meetup at Bowery Farming
   type: Meetup
   start: February 27, 2020
