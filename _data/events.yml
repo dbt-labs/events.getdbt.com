@@ -10,9 +10,9 @@
   type: Conference
   start: August 20, 2020
   location: New York
-  url: https://www.tickettailor.com/events/fishtownanalytics/331434#
+  url: https://www.getdbt.com/coalesce/
   image: https://i.imgur.com/yhvcomQ.png
-  description: The only analytics engineering conference. 
+  description: The only analytics engineering conference.
 - name: dbt Learn
 - name: dbt Meetup at Bowery Farming
   type: Meetup
