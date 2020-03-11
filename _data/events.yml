@@ -23,35 +23,14 @@
   description: It's been three months since the last New York Meetup! Looking forward to see familiar and new faces alike.
 - name: dbt Learn
   type: Education
-  start: May 4, 2020
-  location: Melbourne
-  url: https://www.tickettailor.com/events/fishtownanalytics/342088
-  image: https://i.imgur.com/yJTsiNv.jpg
-  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
-- name: dbt Learn
-  type: Education
-  start: May 11, 2020
-  location: Sydney
-  url: https://www.tickettailor.com/events/fishtownanalytics/342090/
-  image: https://i.imgur.com/49O7l7f.jpg
-  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
-- name: dbt Learn
-  type: Education
-  start: April 15, 2020
-  location: San Francisco
-  url: https://www.tickettailor.com/events/fishtownanalytics/337074
-  image: https://i.imgur.com/XBaFR3I.jpg
-  description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
-- name: dbt Learn
-  type: Education
-  start: April 2, 2020
+  start: June 25, 2020
   location: London
   url: https://www.tickettailor.com/events/fishtownanalytics/337072
   image: https://i.imgur.com/GGIvCVU.jpg
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn
   type: Education
-  start: March 19, 2020
+  start: June 11, 2020
   location: New York
   url: https://www.tickettailor.com/events/fishtownanalytics/337071
   image: https://i.imgur.com/7T3FCcm.jpg
