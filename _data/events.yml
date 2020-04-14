@@ -9,28 +9,28 @@
 
 - name: dbt Learn (GMT-5/East Coast)
   type: Education
-  start: June 10
+  start: June 10, 2020
   location: Distributed
   url: https://buytickets.at/fishtownanalytics/367695
   image: https://images.unsplash.com/photo-1554752191-343d87d6c28f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn (GMT-7/West Coast)
   type: Education
-  start: May 28
+  start: May 27, 2020
   location: Distributed
   url: https://buytickets.at/fishtownanalytics/367694
   image: https://images.unsplash.com/photo-1554752191-343d87d6c28f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn (GMT-5/London)
   type: Education
-  start: May 13
+  start: May 13, 2020
   location: Distributed
   url: https://buytickets.at/fishtownanalytics/367693
   image: https://images.unsplash.com/photo-1554752191-343d87d6c28f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn (GMT-5/East Coast)
   type: Education
-  start: April 29
+  start: April 29, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/367644
   image: https://images.unsplash.com/photo-1554752191-343d87d6c28f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80
