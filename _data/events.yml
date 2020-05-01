@@ -10,7 +10,7 @@
 - name: Office Hours with Fivetran
   type: Office Hours
   start: May 12
-  locaton: Online (Zoom)
+  location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSd-gXSjh3f80ElLvBNxRo9MZ9AOH7Gg_OfwUCUQOTVhT5Vkcw/viewform
   image: https://i.imgur.com/GnpKXNo.jpg
   description: Join Kirstin Bagnall from Fivetran to learn how to build packages for the dbt community.
