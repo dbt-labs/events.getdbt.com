@@ -7,26 +7,54 @@
 #   description: sentence or two (max 60 words)
 
 
+- name: Office Hours with Fivetran
+  type: Office Hours
+  start: May 12
+  locaton: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSd-gXSjh3f80ElLvBNxRo9MZ9AOH7Gg_OfwUCUQOTVhT5Vkcw/viewform
+  img: https://i.imgur.com/GnpKXNo.jpg
+  description: Join Kirstin Bagnall from Fivetran to learn how to build packages for the dbt community.
+- name: Office Hours with Canva
+  type: Office Hours
+  start: May 6
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfvs7GjopYbi3wj1EMtD8uY6KL7Gw-AsTguAsA61RzurtRdDw/viewform
+  img: https://i.imgur.com/GnpKXNo.jpg
+  description: See how Canva moves data from Snowflake into the SaaS tools their business uses.
+- name: Boston dbt Meetup
+  type: meetup
+  start: May 8
+  location: Online (Zoom)
+  url: https://www.meetup.com/Boston-dbt-Meetup/events/270162545/
+  img: https://i.imgur.com/j9U8P2y.jpg
+  description: Learn how data teams at Wistia and HubSpot are improving their workflow with dbt.
+- name: New York dbt Meetup
+  type: meetup
+  start: June 12
+  location: Online (Zoom)
+  url: https://www.meetup.com/NYC-dbt-Meetup/events/270163038/
+  image: https://i.imgur.com/j9U8P2y.jpg
+  description: Welcome to the first online-only NYC Meetup! We are disappointed we can't meet in person, but are still looking forward to seeing your friendly faces on Zoom.
 - name: dbt Learn (UTC-4/East Coast)
   type: Education
   start: June 10, 2020
   location: Distributed
   url: https://buytickets.at/fishtownanalytics/367695
-  image: https://images.unsplash.com/photo-1554752191-343d87d6c28f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80
+  image: https://i.imgur.com/p2MYMT5.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn (UTC-7/West Coast)
   type: Education
   start: May 27, 2020
   location: Distributed
   url: https://buytickets.at/fishtownanalytics/367694
-  image: https://images.unsplash.com/photo-1554752191-343d87d6c28f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80
+  image: https://i.imgur.com/p2MYMT5.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn (UTC+1/London)
   type: Education
   start: May 13, 2020
   location: Distributed
   url: https://buytickets.at/fishtownanalytics/367693
-  image: https://images.unsplash.com/photo-1554752191-343d87d6c28f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80
+  image: https://i.imgur.com/p2MYMT5.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 - name: dbt Learn (UTC-4/East Coast)
   type: Education
