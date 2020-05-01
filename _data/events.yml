@@ -12,24 +12,24 @@
   start: May 12
   locaton: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSd-gXSjh3f80ElLvBNxRo9MZ9AOH7Gg_OfwUCUQOTVhT5Vkcw/viewform
-  img: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/GnpKXNo.jpg
   description: Join Kirstin Bagnall from Fivetran to learn how to build packages for the dbt community.
 - name: Office Hours with Canva
   type: Office Hours
   start: May 6
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSfvs7GjopYbi3wj1EMtD8uY6KL7Gw-AsTguAsA61RzurtRdDw/viewform
-  img: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/GnpKXNo.jpg
   description: See how Canva moves data from Snowflake into the SaaS tools their business uses.
 - name: Boston dbt Meetup
-  type: meetup
+  type: Meetup
   start: May 8
   location: Online (Zoom)
   url: https://www.meetup.com/Boston-dbt-Meetup/events/270162545/
-  img: https://i.imgur.com/j9U8P2y.jpg
+  image: https://i.imgur.com/j9U8P2y.jpg
   description: Learn how data teams at Wistia and HubSpot are improving their workflow with dbt.
 - name: New York dbt Meetup
-  type: meetup
+  type: Meetup
   start: June 12
   location: Online (Zoom)
   url: https://www.meetup.com/NYC-dbt-Meetup/events/270163038/
