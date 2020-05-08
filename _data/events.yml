@@ -5,50 +5,70 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: Office Hours — Spark + dbt
+  type: Office Hours
+  start: May 26, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSecBN2PVOBl8WrJbbAK4p04x-PlzD2NL06qLqjlEIbdhdlKMQ/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: Join Fokko Driesprong from GoDataDriven to learn about Spark, and how it works with dbt.
 
+- name: Office Hours — BigQuery + dbt
+  type: Office Hours
+  start: May 20
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeervsZZI54Mo0M5Bajm0IGynMLdjbY890FkPDn37z9btIiuw/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: Join Claus Herther and Rasmus Bjerran to learn some advanced use cases of BigQuery and dbt.
 
 - name: London dbt Meetup
   type: Meetup
-  start: May 19
+  start: May 19, 2020
   location: Online
   url: https://www.meetup.com/London-dbt-Meetup/events/270490449/
   image: https://i.imgur.com/j9U8P2y.jpg
   description: For our first remote London Meetup, the team at RVU are going to discuss their recent productivity hack-day and how they have improved the development flow for all of their analysts.
+
 - name: How Ritual's Ecommerce Data Stack Powers Their Customer Retention Program
   type: Webinar, Hosted by Fivetran
-  start: May 28
+  start: May 28, 2020
   location: Online
   url: https://get.fivetran.com/wbn-customer-retention-dbt.html?utm_source=dbt&utm_medium=eventspage&utm_campaign=ritual-customer-retention&utm_content=
   image: https://i.imgur.com/JJRLgtl.jpg
   description: Join Brett Trani, Director of Data and Analytics at Ritual, and explore the data stack that powers Ritual's customer retentiton program.
+
 - name: Office Hours with Fivetran
   type: Office Hours
-  start: May 12
+  start: May 12, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSd-gXSjh3f80ElLvBNxRo9MZ9AOH7Gg_OfwUCUQOTVhT5Vkcw/viewform
   image: https://i.imgur.com/GnpKXNo.jpg
   description: Join Kirstin Bagnall from Fivetran to learn how to build packages for the dbt community.
+
 - name: Office Hours with Canva
   type: Office Hours
-  start: May 6
+  start: May 6, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSfvs7GjopYbi3wj1EMtD8uY6KL7Gw-AsTguAsA61RzurtRdDw/viewform
   image: https://i.imgur.com/GnpKXNo.jpg
   description: See how Canva moves data from Snowflake into the SaaS tools their business uses.
+
 - name: Boston dbt Meetup
   type: Meetup
-  start: May 8
+  start: May 8, 2020
   location: Online (Zoom)
   url: https://www.meetup.com/Boston-dbt-Meetup/events/270162545/
   image: https://i.imgur.com/j9U8P2y.jpg
   description: Learn how data teams at Wistia and HubSpot are improving their workflow with dbt.
+
 - name: New York dbt Meetup
   type: Meetup
-  start: June 12
+  start: June 12, 2020
   location: Online (Zoom)
   url: https://www.meetup.com/NYC-dbt-Meetup/events/270163038/
   image: https://i.imgur.com/j9U8P2y.jpg
   description: Welcome to the first online-only NYC Meetup! We are disappointed we can't meet in person, but are still looking forward to seeing your friendly faces on Zoom.
+
 - name: dbt Learn (UTC-4/East Coast)
   type: Education
   start: June 10, 2020
@@ -56,6 +76,7 @@
   url: https://buytickets.at/fishtownanalytics/367695
   image: https://i.imgur.com/p2MYMT5.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Learn (UTC-7/West Coast)
   type: Education
   start: May 27, 2020
@@ -63,6 +84,7 @@
   url: https://buytickets.at/fishtownanalytics/367694
   image: https://i.imgur.com/p2MYMT5.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Learn (UTC+1/London)
   type: Education
   start: May 13, 2020
@@ -70,6 +92,7 @@
   url: https://buytickets.at/fishtownanalytics/367693
   image: https://i.imgur.com/p2MYMT5.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Learn (UTC-4/East Coast)
   type: Education
   start: April 29, 2020
@@ -77,6 +100,7 @@
   url: https://www.tickettailor.com/events/fishtownanalytics/367644
   image: https://images.unsplash.com/photo-1554752191-343d87d6c28f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1504&q=80
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Meetup at Bowery Farming
   type: Meetup
   start: February 27, 2020
@@ -84,6 +108,7 @@
   url: https://www.meetup.com/NYC-dbt-Meetup/events/268089367/
   image: https://i.imgur.com/IPIsQYZ.jpg
   description: It's been three months since the last New York Meetup! Looking forward to see familiar and new faces alike.
+
 - name: dbt Learn
   type: Education
   start: March 5, 2020
@@ -91,6 +116,7 @@
   url: https://www.tickettailor.com/events/fishtownanalytics/337069
   image: https://i.imgur.com/mIeOIRV.jpg
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Learn
   type: Education
   start: February 20, 2020
@@ -98,6 +124,7 @@
   url: https://www.tickettailor.com/events/fishtownanalytics/334185
   image: https://i.imgur.com/JuSvfNe.jpg
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Meetup at Envoy
   type: Meetup
   start: November 5, 2019
@@ -105,6 +132,7 @@
   url: https://www.meetup.com/SF-dbt-Meetup/events/265127661/
   image: https://images.unsplash.com/photo-1534050359320-02900022671e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=3276&q=80
   description: We're in town for Looker JOIN, so will be making the most of this trip by coupling it with a dbt Meetup! Join us to talk all things analytics engineering and dbt!
+
 - name: dbt Meetup at Warby Parker
   type: Meetup
   start: October 9, 2019
@@ -112,6 +140,7 @@
   url: https://www.meetup.com/NYC-dbt-Meetup/events/265127368/
   image: https://images.unsplash.com/photo-1467521335787-2f0fc0f0e9a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1745&q=80
   description: This event is hosted by Warby Parker and open to all folks working with data—while we'll predominantly focus on people's experience with dbt, we're also very interested in broader topics related to analytics engineering, such as data stacks, data ops, modeling, testing, and team structures.
+
 - name: dbt Meetup at ThoughtWorks
   type: Meetup
   start: October 9, 2019
@@ -119,6 +148,7 @@
   url: https://www.meetup.com/Sydney-DBT-Meetup/events/264981495/
   image: "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80"
   description: "With local companies like Vero, Airtasker and NearMap using dbt, Sydney is home to one of our most active dbt communities! Join us for the inaugral Sydney dbt Meetup."
+
 - name: dbt Learn
   type: Education
   start: April 15-16, 2019
@@ -126,6 +156,7 @@
   url: https://www.tickettailor.com/events/fishtownanalytics/337074
   image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Learn
   type: Education
   start: April 2-3, 2019
@@ -133,6 +164,7 @@
   url: https://www.tickettailor.com/events/fishtownanalytics/337072
   image: https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Learn
   type: Education
   start: March 19-20, 2019
@@ -140,6 +172,7 @@
   url: https://www.tickettailor.com/events/fishtownanalytics/337071
   image: https://i.imgur.com/rnFrfz3.jpg
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Learn
   type: Education
   start: March 5-6, 2019
@@ -147,6 +180,7 @@
   url: https://www.tickettailor.com/events/fishtownanalytics/337069
   image: https://i.imgur.com/0s2oXp0.jpg
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: dbt Learn
   type: Education
   start: February 20, 2019
@@ -157,6 +191,7 @@
   url: https://learn.getdbt.com/
   image: https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   description: "A two-day, in-person training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: Defining and Redefining Data
   type: Meetup
   start: September 19, 2019
@@ -164,6 +199,7 @@
   url: https://www.meetup.com/mtldata/events/264170235/
   image: https://images.unsplash.com/photo-1526669754135-c1babeb8c542?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1652&q=80
   description: "Join us to talk about how to streamline the process of initially defining and later re-defining your data model. What should engineers be doing? What should analysts and data scientists being doing? How can we all just get along?"
+
 - name: dbt Meetup at RVU
   type: Meetup
   start: September 5, 2019
@@ -171,6 +207,7 @@
   url: https://www.meetup.com/London-dbt-Meetup/events/264032117/
   image: https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   description: "After the highs of the first London dbt meetup and the even higher highs of the second meetup, we are set to bring you a trilogy (read: summer) ending meetup that will set up the dbt meetup universe for prequels, spin-offs and comics for years to come. Get the date in your diaries!"
+
 - name: 3rd London Datacouncil Meetup
   type: Meetup
   location: London
@@ -178,6 +215,7 @@
   url: https://www.meetup.com/DataCouncil-AI-London-Data-Engineering-and-Science/events/263587160/
   image: https://images.unsplash.com/photo-1533929736458-ca588d08c8be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1650&q=80
   description: "Stephen Whitworth, Data Engineering Lead at Monzo Bank, will be talking about his experience migrating the UK's favorite online bank to dbt."
+
 - name: JOIN 2019
   type: Conference
   location: San Francisco
@@ -185,6 +223,7 @@
   url: https://looker.com/events/join
   image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
   description: "Looker JOIN is an excellent place to find and learn from Looker + dbt power users."
+
 - name: dbt Meetup at Casper
   type: Meetup
   start: July 31, 2019
@@ -192,6 +231,7 @@
   url: https://www.meetup.com/NYC-dbt-Meetup/events/262510942/
   image: https://images.unsplash.com/photo-1467521335787-2f0fc0f0e9a0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1745&q=80
   description: "This event is hosted by Casper and open to all folks working with data—while we'll predominantly focus on people's experience with dbt, we're also very interested in broader topics that apply to modern data teams, such as data stacks, data ops, modeling, testing, and team structures."
+
 - name: dbt Meetup at Grove Collaborative
   type: Meetup
   start: June 12, 2019
@@ -199,6 +239,7 @@
   url: https://www.meetup.com/SF-dbt-Meetup/events/261495330/
   image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
   description: "This event is hosted by Grove Collaborative and open to all folks working with data—while we'll predominantly focus on people's experience with dbt, we're also very interested in broader topics that apply to modern data teams, such as data stacks, data ops, modeling, testing, and team structures."
+
 - name: dbt Learn
   type: Education
   start: June 10, 2019
@@ -206,6 +247,7 @@
   url: https://www.eventbrite.com/e/dbt-learn-june-2019-tickets-60106821120
   image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
   description: "dbt Learn in June will be a two day in-person training program designed to empower analysts. The only technical requirements needed is a practical knowledge of SQL, leave the rest to us!"
+
 - name: dbt Learn
   type: Education
   start: February 6, 2019
