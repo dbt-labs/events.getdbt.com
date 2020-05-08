@@ -7,6 +7,13 @@
 #   description: sentence or two (max 60 words)
 
 
+- name: How Ritual's Ecommerce Data Stack Powers Their Customer Retention Program
+  type: Webinar, Hosted by Fivetran
+  start: May 28
+  location: Online
+  url: https://get.fivetran.com/wbn-customer-retention-dbt.html?utm_source=dbt&utm_medium=eventspage&utm_campaign=ritual-customer-retention&utm_content=
+  image: https://i.imgur.com/JJRLgtl.jpg
+  description: Join Brett Trani, Director of Data and Analytics at Ritual, and explore the data stack that powers Ritual's customer retentiton program.
 - name: Office Hours with Fivetran
   type: Office Hours
   start: May 12
