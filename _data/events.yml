@@ -12,6 +12,7 @@
   start: May 19
   location: Online
   url: https://www.meetup.com/London-dbt-Meetup/events/270490449/
+  image: https://i.imgur.com/j9U8P2y.jpg
   description: For our first remote London Meetup, the team at RVU are going to discuss their recent productivity hack-day and how they have improved the development flow for all of their analysts.
 - name: How Ritual's Ecommerce Data Stack Powers Their Customer Retention Program
   type: Webinar, Hosted by Fivetran
