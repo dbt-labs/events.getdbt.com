@@ -11,7 +11,7 @@
   location: Online
   url: https://www.snowflake.com/webinar/how-nearmap-increased-analytics-velocity-with-snowflake-dbt/?utm_source=dbt&utm_medium=referral&utm_campaign=dbt
   image: https://i.imgur.com/JJRLgtl.jpg
-  description: Legacy data infrastructure was slowing down Nearmap’s data team: time-consuming maintenance, slow analytical queries and full model rebuilds that took up to two days to complete! Join Jonathan Mak, to learn why Nearmap adopted a modern analytics engineering workflow using dbt, and see how Snowflake has proven to be the best cloud data platform to support that workflow.
+  description: Join Jonathan Mak from Nearmap, to learn why Nearmap adopted a modern analytics engineering workflow using dbt, and see how Snowflake has proven to be the best cloud data platform to support that workflow.
 
 - name: Building a productive data organization at HubSpot with Snowflake and dbt
   type: Webinar, Hosted by Snowflake
@@ -19,7 +19,7 @@
   location: Online
   url: https://www.snowflake.com/webinar/snowflake-dbt-hubspot/?utm_source=dbt&utm_medium=referral&utm_campaign=webinar-dbt&utm_partner=dbt
   image: https://i.imgur.com/JJRLgtl.jpg
-  description: HubSpot has over 3300+ global employees, with a hybrid data team of 200+ people including data engineers, analytics engineers, and data analysts. Join James Densmore, HubSpot’s Director of Data Infrastructure, to learn about the tools and workflows HubSpot is adopting to keep the data team productive as it grows.
+  description: Join James Densmore, HubSpot’s Director of Data Infrastructure, to learn about the tools and workflows HubSpot is adopting to keep the data team productive as it grows.
 
 - name: Office Hours — Spark + dbt
   type: Office Hours
