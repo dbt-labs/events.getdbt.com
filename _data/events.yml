@@ -7,7 +7,7 @@
 #   description: sentence or two (max 60 words)
 - name: dbt Learn (UTC-7/West Coast)
   type: Education
-  start: July 15-16, 2020
+  start: July 15, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/382651
   image: https://i.imgur.com/p2MYMT5.jpg
@@ -15,7 +15,7 @@
 
 - name: dbt Learn (UTC+1/London)
   type: Education
-  start: August 12-13, 2020
+  start: August 12, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/382716
   image: https://i.imgur.com/p2MYMT5.jpg
@@ -23,7 +23,7 @@
 
 - name: dbt Learn:(UTC-4/East Coast)
   type: Education
-  start: September 16-17, 2020
+  start: September 16, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/382719
   image: https://i.imgur.com/p2MYMT5.jpg
