@@ -5,14 +5,37 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
-- name: dbt Learn
+- name: dbt Learn (UTC-7/West Coast)
   type: Education
-  start: July 15
-  location: West Coast
-  url: https://www.eventbrite.com/e/dbt-learn-february-2019-tickets-53954183415#
-  image: https://images.unsplash.com/photo-1516508636691-2ea98becb2f5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1651&q=80
-  description: "dbt Learn is a three day in-person training program designed to empower analysts. The only technical requirements needed is a practical knowledge of SQL, leave the rest to us!"
+  start: July 15-16, 2020
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/382651
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
+- name: dbt Learn (UTC+1/London)
+  type: Education
+  start: August 12-13, 2020
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/382716
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: dbt Learn:(UTC-4/East Coast)
+  type: Education
+  start: September 16-17, 2020
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/382719
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: dbt Office Hours: Materialized Views
+  type: Office Hours
+  start: June 16, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLScVQh9p-W6nryIVwSt1D8-A_OquaSoblp6-vJ3WxwEiNMusjg/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "Jeremy will be giving an overview of materialized views including: what they intend to do, how each data warehouse's implementation differs and how (unfortunately) they are not the end of dbt materializations as we know them. He'll also discuss our plan for testing out and supporting "experimental" features moving forward."
 
 - name: How Nearmap increased analytics velocity with Snowflake and dbt
   type: Webinar, Hosted by Snowflake
