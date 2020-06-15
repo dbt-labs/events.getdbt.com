@@ -29,7 +29,7 @@
   image: https://i.imgur.com/p2MYMT5.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
-- name: dbt Office Hours: Materialized Views
+- name: "dbt Office Hours: Materialized Views"
   type: Office Hours
   start: June 16, 2020
   location: Online (Zoom)
