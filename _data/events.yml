@@ -35,7 +35,7 @@
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLScVQh9p-W6nryIVwSt1D8-A_OquaSoblp6-vJ3WxwEiNMusjg/viewform
   image: https://i.imgur.com/GnpKXNo.jpg
-  description: "Jeremy will be giving an overview of materialized views including: what they intend to do, how each data warehouse's implementation differs and how (unfortunately) they are not the end of dbt materializations as we know them. He'll also discuss our plan for testing out and supporting "experimental" features moving forward."
+  description: "Jeremy will be giving an overview of materialized views including: what they intend to do, how each data warehouse's implementation differs and how (unfortunately) they are not the end of dbt materializations as we know them. He'll also discuss our plan for testing out and supporting 'experimental' features moving forward."
 
 - name: How Nearmap increased analytics velocity with Snowflake and dbt
   type: Webinar, Hosted by Snowflake
