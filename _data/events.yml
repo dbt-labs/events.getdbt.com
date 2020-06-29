@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt Office Hours: Efficient CI/CD for dbt"
+  type: Office Hours
+  start: July 1, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSeOk9cHkVeKsU6eJoRTTAOTOflgDaWpgTvf2Mb48khFM3dijQ/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "Learn how Clearcover recently improved its CI/CD process for dbt, using AWS Codebuild and Github, to reduce build times by 80%."
+
 - name: "dbt Learn (UTC-7/West Coast)"
   type: Education
   start: July 15, 2020
