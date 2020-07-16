@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: San Francisco dbt Meetup (online)
+  type: Meetup
+  start: July 30, 2020
+  location: Online
+  url: https://www.meetup.com/SF-dbt-Meetup/events/271607252/
+  image: https://i.imgur.com/j9U8P2y.jpg
+  description: "dbt Meetups are networking events open to all folks working with data! Talks predominantly focus on community members’ experience with dbt, however, you'll catch presentations on broader topics such as analytics engineering, data stacks, data ops, modeling, testing, and team structures. This session will feature the data analytics teams at Zoox and DataSF."
+
 - name: "dbt Office Hours: Using Airflow to Orchestrate dbt"
   type: Office Hours
   start: July 14, 2020
@@ -12,7 +20,6 @@
   url: https://docs.google.com/forms/d/e/1FAIpQLScttEXW59FywneKStjm5GjfCKAVMtfr_JTTLh8O4dRIgaM7FA/viewform
   image: https://i.imgur.com/GnpKXNo.jpg
   description: "Nehil Jain, Senior Data & Infrastructure Engineer at SnapTravel, will share some tips on scheduling dbt production runs using airflow. You will get a chance to look at a code sample on how to set it up and participate in a discussion with other community members."
-
 
 - name: "dbt Office Hours: Efficient CI/CD for dbt"
   type: Office Hours
