@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt Office Hours: Managing Snowflake Architecture with Terraform and dbt"
+  type: Office Hours
+  start: July 28, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSehh3UvTga1CrZOQ1TJmQP3VsxENr2-_A67gPIzC1K7-uyoTg/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "This online session feature the approach that Ritual used to set up a complete CI/CD analytics platform on Snowflake, using Terraform and dbt. Learn how Terraform can be used to implement the classic RAW and ANALYTICS database and permissions approach, outlined in the ‘How we configure Snowflake’ article."
+  
 - name: San Francisco dbt Meetup (online)
   type: Meetup
   start: July 30, 2020
