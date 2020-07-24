@@ -11,7 +11,7 @@
   location: Online
   url: https://mode.com/future-of-data-governance
   image: https://i.imgur.com/JJRLgtl.jpg
-  description: "Join Benn Stancil, President and Co-Founder at Mode, Tristan Handy, CEO and Founder at Fishtown Analytics, Christopher Holliday, Senior VP at Visual BI Solutions, and Michelle Ballen, Director of Data & Analytics at Billie, as they have a discussion around how each of them are thinking about the future of data governance."
+  description: "Join Benn Stancil, President and Co-Founder at Mode; Tristan Handy, CEO and Founder at Fishtown Analytics; Christopher Holliday, Senior VP at Visual BI Solutions; and Michelle Ballen, Director of Data & Analytics at Billie for a discussion around the future of data governance."
 
 - name: "dbt Office Hours: Using Airflow to Orchestrate dbt"
   type: Office Hours
