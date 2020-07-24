@@ -6,6 +6,31 @@
 #   image: external url
 #   description: sentence or two (max 60 words)
 
+
+- name: "The Future of Data Governance"
+  type: Webinar, Hosted by Mode
+  start: July 28, 2020
+  location: Online
+  url: https://mode.com/future-of-data-governance
+  image: https://i.imgur.com/JJRLgtl.jpg
+  description: "Join Benn Stancil, President and Co-Founder at Mode; Tristan Handy, CEO and Founder at Fishtown Analytics; Christopher Holliday, Senior VP at Visual BI Solutions; and Michelle Ballen, Director of Data & Analytics at Billie for a discussion around the future of data governance."
+
+- name: "dbt Office Hours: Managing Snowflake Architecture with Terraform and dbt"
+  type: Office Hours
+  start: July 28, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSehh3UvTga1CrZOQ1TJmQP3VsxENr2-_A67gPIzC1K7-uyoTg/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "This online session feature the approach that Ritual used to set up a complete CI/CD analytics platform on Snowflake, using Terraform and dbt. Learn how Terraform can be used to implement the classic RAW and ANALYTICS database and permissions approach, outlined in the ‘How we configure Snowflake’ article."
+
+- name: San Francisco dbt Meetup (online)
+  type: Meetup
+  start: July 30, 2020
+  location: Online
+  url: https://www.meetup.com/SF-dbt-Meetup/events/271607252/
+  image: https://i.imgur.com/j9U8P2y.jpg
+  description: "dbt Meetups are networking events open to all folks working with data! Talks predominantly focus on community members’ experience with dbt, however, you'll catch presentations on broader topics such as analytics engineering, data stacks, data ops, modeling, testing, and team structures. This session will feature the data analytics teams at Zoox and DataSF."
+
 - name: "dbt Office Hours: Using Airflow to Orchestrate dbt"
   type: Office Hours
   start: July 14, 2020
