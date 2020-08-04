@@ -5,7 +5,21 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "The Future of Data Conference 2020"
+  type: Webinar, Hosted by SiSu
+  start: September 8, 2020
+  location: Online
+  url: https://www.futuredata.org/
+  image: https://i.imgur.com/JJRLgtl.jpg
+  description: "Fostering a community of researchers, practitioners, and business leaders committed to building the next generation of data-intensive systems."
 
+- name: "dbt Office Hours: How Clearbit builds & shares a single view of its customers (ft. dbt & Census)"
+  type: Office Hours
+  start: August 10, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdtsyWHMWS-U6VrMX78S9m4_DUGflxskuaCbIRaaBc5CyhlUA/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "Julie Beynon will discuss the state of the data infrastructure when she joined Clearbit and their approach to implementing change. Learn how she was able to use dbt to unify the data from 10+ data sources to create a golden record of their users. Also, discover how she used Census to sync that data back to business tools."
 
 - name: "The Future of Data Governance"
   type: Webinar, Hosted by Mode
