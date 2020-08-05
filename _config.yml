@@ -9,13 +9,14 @@ robots: true
 
 nav_links:
   home: https://www.getdbt.com
-  slack: https://slack.getdbt.com
+  slack: https://community.getdbt.com
   repo: https://github.com/fishtown-analytics/dbt
   install: https://docs.getdbt.com/docs/installation
   docs: https://docs.getdbt.com/docs/introduction
   discourse: https://discourse.getdbt.com/
   events: https://events.getdbt.com
   blog: https://blog.getdbt.com
+  youtube: https://www.youtube.com/channel/UCVpBwKK-ecMEV75y1dYLE5w
   add_event: https://github.com/fishtown-analytics/events.getdbt.com
 
   product: https://www.getdbt.com/product
