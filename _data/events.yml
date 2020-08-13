@@ -5,6 +5,62 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "NYC dbt Meetup Online"
+  type: Meetup
+  start: September 2, 2020
+  location: Online (Zoom)
+  url: https://www.meetup.com/NYC-dbt-Meetup/events/272483410/
+  image: https://i.imgur.com/j9U8P2y.jpg
+  description: "dbt Meetups are networking events open to all folks working with data! Talks predominantly focus on community members’ experience with dbt, however, you'll catch presentations on broader topics such as analytics engineering, data stacks, data ops, modeling, testing, and team structures. This session will feature the data analytics teams at Zoox and DataSF."
+
+- name: "Conversation with Fishtown Analytics Founder, Tristan Handy: Are Dashboards Dead?"
+  type: Office Hours
+  start: August 26, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSfRO1uabzYrKe80zOHeLBiH9Om0m0DO7r_OqYNjCkrZsDxKSQ/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "Join us for a conversation investigating solutions for using dashboards to empower yourself (and others) to do meaningful work. "
+
+- name: "0.18.0 release: Join dbt Product Manager, Jeremy Cohen, for a look at what's coming"
+  type: Office Hours
+  start: August 18, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLScXCNeaAjroOPJIVWLrOS9uN3X3Eov9pY3_FKr9_W4TOoaWeQ/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "Node selection, ‘Slim CI’, and adapter macros are a few of the things coming in the 0.18.0 release. Join Jeremy Cohen for a look at what's coming, learn about features the Fishtown Analytics team is most excited about, and get your questions answered."
+
+- name: "dbt Learn (UTC-4/East Coast)"
+  type: Education
+  start: December 14, 2020
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/402806
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "dbt Learn (UTC+1/London)"
+  type: Education
+  start: November 18, 2020
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/402803
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "dbt Learn (UTC+10/Sydney)"
+  type: Education
+  start: November 3, 2020
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/402794
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "dbt Learn (UTC-7/West Coast)"
+  type: Education
+  start: October 14, 2020
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/402735
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: "The Future of Data Conference 2020"
   type: Webinar, Hosted by SiSu
   start: September 8, 2020
