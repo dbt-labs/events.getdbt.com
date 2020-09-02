@@ -5,6 +5,21 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+  name: "Coalesce 2020 Online"
+  type: Webinar, Hosted by Fishtown Analytics
+  start: December 7, 2020
+  location: Online
+  url: https://www.getdbt.com/coalesce/
+  image: https://i.imgur.com/JJRLgtl.jpg
+  description: "Coalesce 2020 is a dbt community event dedicated to advancing the practice of analytics engineering."
+
+  name: "Let's Talk: Analytics Engineering Brainstorm"
+  type: Office Hours
+  start: September 9, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSelPj3N1-875C4-5-flU8Wi516wD8uEIwhl44leeiLsilHsSw/viewform
+  description: "We invite you to participate in a brainstorming session with our professional services team. The conversation will be focused on how we can provide solutions to shared pain points in analytics engineering."
+
 - name: "NYC dbt Meetup Online"
   type: Meetup
   start: September 2, 2020
