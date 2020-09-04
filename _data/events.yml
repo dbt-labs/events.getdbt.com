@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "Faster Data Modeling with Looker and dbt"
+  type: Webinar, Hosted by Looker
+  start: October 1, 2020
+  location: Online
+  url: https://discover.looker.com/dbtFishtownDataModeling.html?utm_source=partnet_fishtown&utm_medium=email&utm_campaign=7014W000001ANpXQAW&utm_term=noram&utm_content=fishtownwebinar
+  image: https://i.imgur.com/JJRLgtl.jpg
+  description: "Join this event to learn how data teams are using Looker and dbt to help analysts deliver results faster. You’ll get a deep dive into Drizly’s process and how they choose what to model in dbt vs Looker and the ways the tools become stronger together."
+
 - name: "Coalesce 2020 Online"
   type: Webinar, Hosted by Fishtown Analytics
   start: December 7, 2020
@@ -18,6 +26,7 @@
   start: September 9, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSelPj3N1-875C4-5-flU8Wi516wD8uEIwhl44leeiLsilHsSw/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
   description: "We invite you to participate in a brainstorming session with our professional services team. The conversation will be focused on how we can provide solutions to shared pain points in analytics engineering."
 
 - name: "NYC dbt Meetup Online"
