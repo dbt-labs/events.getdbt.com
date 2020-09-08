@@ -14,7 +14,7 @@
   description: "Join this event to learn how data teams are using Looker and dbt to help analysts deliver results faster. You’ll get a deep dive into Drizly’s process and how they choose what to model in dbt vs Looker and the ways the tools become stronger together."
 
 - name: "Coalesce 2020 Online"
-  type: Webinar, Hosted by Fishtown Analytics
+  type: Conference, Hosted by Fishtown Analytics
   start: December 7, 2020
   location: Online
   url: https://www.getdbt.com/coalesce/
@@ -86,7 +86,7 @@
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "The Future of Data Conference 2020"
-  type: Webinar, Hosted by SiSu
+  type: Conference, Hosted by SiSu
   start: September 8, 2020
   location: Online
   url: https://www.futuredata.org/
