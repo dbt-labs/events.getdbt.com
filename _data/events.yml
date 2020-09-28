@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt Office Hours: Building out an entity resolution pipeline with Python and dbt"
+  type: Office Hours
+  start: October 1, 2020
+  location: Online (Zoom)
+  url: https://docs.google.com/forms/d/e/1FAIpQLSdRPWx83TJFMma2QkM50XfLLnazDcFDkdkkMGVJ3HKEvKoy0Q/viewform
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "In this Office Hours, Pedram from Vouch Insurance will share how they built out an entity resolution pipeline, using a combination of both dbt and python."
+
 - name: "Faster Data Modeling with Looker and dbt"
   type: Webinar, Hosted by Looker
   start: October 1, 2020
