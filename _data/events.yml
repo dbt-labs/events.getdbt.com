@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt Office Hours: Delivering Data On-time, Every Day"
+  type: Office Hours
+  start: October 13, 2020
+  location: Online (Crowdcast)
+  url: https://www.crowdcast.io/e/dbt-office-hours
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "Sean McIntyre, Principal Data Engineer at Warby Parker, will go over the company’s approach to delivering data to their reporting systems on-time. Learn why it’s important to their team and how you can start to do it yourself!"
+
 - name: "dbt Office Hours: Building out an entity resolution pipeline with Python and dbt"
   type: Office Hours
   start: October 1, 2020
