@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt Office Hours: The rise of operational analytics (and why analytics engineers should care)"
+  type: Office Hours
+  start: November 17, 2020
+  location: Online (Crowdcast)
+  url: https://www.crowdcast.io/e/dbt-office-hours-3
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "Operations teams own the processes and technology that keep a given function running smoothly. A big chunk of this work is data management. Is a customer list segmented correctly? Is information from Intercom syncing to Salesforce? With the rise of powerful, cloud warehousing, we're seeing an emerging trend of companies making the warehouse the single source of truth, not just for analytics, but also business operations. Join us for a discussion about operational analytics and why everyone with dbt skills should care about this trend. We're planning for a 45 min conversation and 15 min demo."
+
 - name: "dbt Office Hours: Delivering Data On-time, Every Day"
   type: Office Hours
   start: October 13, 2020
