@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt Office Hours: Wrestling with Data Quality & Observability at WWE"
+  type: Office Hours
+  start: November 23, 2020
+  location: Online (Crowdcast)
+  url: https://www.crowdcast.io/e/dbt-office-hours-4
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "Discover WWE's approach to tackling data quality issues and building a culture of visibility and transparency."
+
 - name: "dbt Office Hours: The rise of operational analytics (and why analytics engineers should care)"
   type: Office Hours
   start: November 17, 2020
