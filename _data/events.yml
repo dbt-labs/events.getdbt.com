@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt Office Hours: How to maximize your experience at Coalesce"
+  type: Office Hours
+  start: December 2, 2020
+  location: Online (Crowdcast)
+  url: https://www.crowdcast.io/e/dbt-office-hours-how-to
+  image: https://i.imgur.com/GnpKXNo.jpg
+  description: "Join the dbt Community team for a conversation about how to maximize your conference experience and prepare for the big event."
+
 - name: "dbt Office Hours: Wrestling with Data Quality & Observability at WWE"
   type: Office Hours
   start: November 23, 2020
