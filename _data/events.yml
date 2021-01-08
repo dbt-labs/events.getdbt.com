@@ -5,6 +5,30 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "Staging: dbt Demo Day"
+  type: Webinar
+  start: August 12, 2021
+  location: Online
+  url: https://www.crowdcast.io/e/dbtdemoday1/register
+  image: https://imgur.com/SXHXBR4.jpg
+  description: "Staging: dbt demo days are quarterly events that bring users into the dbt product development lifecycle!"
+
+- name: "Staging: dbt Demo Day"
+  type: Webinar
+  start: May 13, 2021
+  location: Online
+  url: https://www.crowdcast.io/e/dbtdemoday1/register
+  image: https://imgur.com/SXHXBR4.jpg
+  description: "Staging: dbt demo days are quarterly events that bring users into the dbt product development lifecycle!"
+
+- name: "Staging: dbt Demo Day"
+  type: Webinar
+  start: February 11, 2021
+  location: Online
+  url: https://www.crowdcast.io/e/dbtdemoday1/register
+  image: https://imgur.com/SXHXBR4.jpg
+  description: "Staging: dbt demo days are quarterly events that bring users into the dbt product development lifecycle!"
+
 - name: "Strata Data Superstream: Data Science Fundamentals"
   type: Webinar, Hosted by O'Reilly Media
   start: February 9, 2021
