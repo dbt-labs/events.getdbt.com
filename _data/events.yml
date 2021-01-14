@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "NYC dbt Meetup Online"
+  type: Meetup
+  start: February 10, 2021
+  location: Online
+  url: https://www.meetup.com/NYC-dbt-Meetup/events/275626527/?isFirstPublish=true
+  image: https://i.imgur.com/j9U8P2y.jpg
+  description: "Brooklyn Data Co. is excited to be teaming up with dbt to host the NYC meetups moving forward, with this particular event being sponsored by Tee Public."
+
 - name: "Staging: dbt Demo Day"
   type: Webinar
   start: August 12, 2021
