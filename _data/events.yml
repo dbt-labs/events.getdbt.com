@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt How-to Hour"
+  type: How-to Hours
+  start: January 27, 2021
+  location: Online (Crowdcast)
+  url: https://www.crowdcast.io/e/dbthowtohour1
+  image: https://imgur.com/Yegsrax.jpg
+  description: "We’re trying something new to kick off the year — a dbt live coding session! Join members of the Fishtown Analytics team as we work through a modeling problem, and then attempt to build a macro from scratch."
+
 - name: "NYC dbt Meetup Online"
   type: Meetup
   start: February 10, 2021
@@ -300,14 +308,6 @@
   url: https://docs.google.com/forms/d/e/1FAIpQLSecBN2PVOBl8WrJbbAK4p04x-PlzD2NL06qLqjlEIbdhdlKMQ/viewform
   image: https://i.imgur.com/GnpKXNo.jpg
   description: Join Fokko Driesprong from GoDataDriven to learn about Spark, and how it works with dbt.
-
-- name: Office Hours — BigQuery + dbt
-  type: Office Hours
-  start: May 20
-  location: Online (Zoom)
-  url: https://docs.google.com/forms/d/e/1FAIpQLSeervsZZI54Mo0M5Bajm0IGynMLdjbY890FkPDn37z9btIiuw/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
-  description: Join Claus Herther and Rasmus Bjerran to learn some advanced use cases of BigQuery and dbt.
 
 - name: London dbt Meetup
   type: Meetup
