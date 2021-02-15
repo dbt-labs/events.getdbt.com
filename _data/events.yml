@@ -5,6 +5,22 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt 101"
+  type: dbt 101
+  start: March 9, 2021
+  location: Online
+  url: https://imgur.com/U85chjl.jpg
+  image: https://www.crowdcast.io/e/dbthowtohour1
+  description: "If you’re new to dbt, start here. At dbt 101, we will walk you through core concepts, technical requirements, and the best ways to use the tool."
+
+- name: "dbt How-to Hour: Deep dive on two new packages, dbt-ml-preprocessing and dbt-expectations"
+  type: How-to Hours
+  start: February 23, 2021
+  location: Online
+  url: https://www.crowdcast.io/e/dbt-how-to-hour-deep
+  image: https://imgur.com/Yegsrax.jpg
+  description: "In this session, we'll hear from two package authors that will share demos of their work and discuss how they are using packages in their dbt projects."
+
 - name: "Feb Edition, Sydney dbt Meetup"
   type: Meetup
   start: February 17, 2021
