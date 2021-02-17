@@ -5,6 +5,59 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt Learn (UTC-4/East Coast)"
+  type: Education
+  start: June 16, 2021
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/486757
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "dbt Learn (UTC+1/London)"
+  type: Education
+  start: June 3, 2021
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/486756
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "dbt Learn (UTC-7/West Coast)"
+  type: Education
+  start: May 19, 2021
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/486755
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "dbt Learn (UTC-4/East Coast)"
+  type: Education
+  start: May 5, 2021
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/486752
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "dbt Learn (UTC+1/London)"
+  type: Education
+  start: April 14, 2021
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/486750
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "dbt Learn (UTC-7/West Coast)"
+  type: Education
+  start: April 7, 2021
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/486748
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "dbt Learn (UTC+1/London)"
+  type: Education
+  start: March 11, 2021
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/486744
+  image: https://i.imgur.com/p2MYMT5.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
 - name: "dbt 101"
   type: dbt 101
   start: March 9, 2021
