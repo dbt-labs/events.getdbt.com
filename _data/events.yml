@@ -10,7 +10,7 @@
   start: June 16, 2021
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/486757
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC+1/London)"
@@ -18,7 +18,7 @@
   start: June 3, 2021
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/486756
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC-7/West Coast)"
@@ -26,7 +26,7 @@
   start: May 19, 2021
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/486755
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC-4/East Coast)"
@@ -34,7 +34,7 @@
   start: May 5, 2021
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/486752
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC+1/London)"
@@ -42,7 +42,7 @@
   start: April 14, 2021
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/486750
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC-7/West Coast)"
@@ -50,7 +50,7 @@
   start: April 7, 2021
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/486748
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt 101"
@@ -58,7 +58,7 @@
   start: March 9, 2021
   location: Online
   url: https://www.crowdcast.io/e/dbt101_1
-  image: https://imgur.com/U85chjl.jpg
+  image: https://i.imgur.com/8f7nHZE.jpg
   description: "If you’re new to dbt, start here. At dbt 101, we will walk you through core concepts, technical requirements, and the best ways to use the tool."
 
 - name: "dbt How-to Hour: Deep dive on two new packages, dbt-ml-preprocessing and dbt-expectations"
@@ -66,7 +66,7 @@
   start: February 23, 2021
   location: Online
   url: https://www.crowdcast.io/e/dbt-how-to-hour-deep
-  image: https://imgur.com/Yegsrax.jpg
+  image: https://i.imgur.com/VXXrRBL.jpg
   description: "In this session, we'll hear from two package authors that will share demos of their work and discuss how they are using packages in their dbt projects."
 
 - name: "Feb Edition, Sydney dbt Meetup"
@@ -74,7 +74,7 @@
   start: February 17, 2021
   location: Online
   url: https://www.meetup.com/Sydney-dbt-Meetup/events/275871867/?isFirstPublish=true
-  image: https://i.imgur.com/j9U8P2y.jpg
+  image: https://i.imgur.com/Ovx9haG.jpg
   description: "Join us for the first Sydney dbt Meetup of the year!"
 
 - name: "dbt How-to Hour"
@@ -82,7 +82,7 @@
   start: January 27, 2021
   location: Online (Crowdcast)
   url: https://www.crowdcast.io/e/dbthowtohour1
-  image: https://imgur.com/Yegsrax.jpg
+  image: https://i.imgur.com/VXXrRBL.jpg
   description: "We’re trying something new to kick off the year — a dbt live coding session! Join members of the Fishtown Analytics team as we work through a modeling problem, and then attempt to build a macro from scratch."
 
 - name: "NYC dbt Meetup Online"
@@ -90,7 +90,7 @@
   start: February 10, 2021
   location: Online
   url: https://www.meetup.com/NYC-dbt-Meetup/events/275626527/?isFirstPublish=true
-  image: https://i.imgur.com/j9U8P2y.jpg
+  image: https://i.imgur.com/Ovx9haG.jpg
   description: "Brooklyn Data Co. is excited to be teaming up with dbt to host the NYC meetups moving forward, with this particular event being sponsored by Tee Public."
 
 - name: "Staging: dbt Demo Day"
@@ -98,7 +98,7 @@
   start: August 12, 2021
   location: Online
   url: https://www.crowdcast.io/e/dbtdemoday1/register
-  image: https://imgur.com/SXHXBR4.jpg
+  image: https://i.imgur.com/Dhmazrb.jpg
   description: "Staging: dbt demo days are quarterly events that bring users into the dbt product development lifecycle!"
 
 - name: "Staging: dbt Demo Day"
@@ -106,7 +106,7 @@
   start: May 13, 2021
   location: Online
   url: https://www.crowdcast.io/e/dbtdemoday1/register
-  image: https://imgur.com/SXHXBR4.jpg
+  image: https://i.imgur.com/Dhmazrb.jpg
   description: "Staging: dbt demo days are quarterly events that bring users into the dbt product development lifecycle!"
 
 - name: "Staging: dbt Demo Day"
@@ -114,7 +114,7 @@
   start: February 11, 2021
   location: Online
   url: https://www.crowdcast.io/e/dbtdemoday1/register
-  image: https://imgur.com/SXHXBR4.jpg
+  image: https://i.imgur.com/Dhmazrb.jpg
   description: "Staging: dbt demo days are quarterly events that bring users into the dbt product development lifecycle!"
 
 - name: "Strata Data Superstream: Data Science Fundamentals"
@@ -122,7 +122,7 @@
   start: February 9, 2021
   location: Online
   url: https://www.oreilly.com/live-training/courses/strata-data-superstream-data-science-fundamentals/0636920052707/
-  image: https://i.imgur.com/JJRLgtl.jpg
+  image: https://i.imgur.com/e2lDd5N.jpg
   description: "Join Tristan Handy, CEO and Founder at Fishtown Analytics, as he digs into the data problems he’s most fascinated with today, what he’s seeing that gets him excited, and where he thinks things might go from here in a talk titled, The Modern Data Stack—Past, Present, and Future."
 
 - name: "dbt Learn (UTC+1/London)"
@@ -130,7 +130,7 @@
   start: January 20, 2021
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/455877
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC-7/West Coast)"
@@ -138,7 +138,7 @@
   start: February 10, 2021
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/455894
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC-4/East Coast)"
@@ -146,7 +146,7 @@
   start: March 24, 2021
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/455896
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Office Hours: How to maximize your experience at Coalesce"
@@ -154,7 +154,7 @@
   start: December 2, 2020
   location: Online (Crowdcast)
   url: https://www.crowdcast.io/e/dbt-office-hours-how-to
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Join the dbt Community team for a conversation about how to maximize your conference experience and prepare for the big event."
 
 - name: "dbt Office Hours: Wrestling with Data Quality & Observability at WWE"
@@ -162,7 +162,7 @@
   start: November 23, 2020
   location: Online (Crowdcast)
   url: https://www.crowdcast.io/e/dbt-office-hours-4
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Discover WWE's approach to tackling data quality issues and building a culture of visibility and transparency."
 
 - name: "dbt Office Hours: The rise of operational analytics (and why analytics engineers should care)"
@@ -170,7 +170,7 @@
   start: November 17, 2020
   location: Online (Crowdcast)
   url: https://www.crowdcast.io/e/dbt-office-hours-3
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Operations teams own the processes and technology that keep a given function running smoothly. A big chunk of this work is data management. Is a customer list segmented correctly? Is information from Intercom syncing to Salesforce? With the rise of powerful, cloud warehousing, we're seeing an emerging trend of companies making the warehouse the single source of truth, not just for analytics, but also business operations. Join us for a discussion about operational analytics and why everyone with dbt skills should care about this trend. We're planning for a 45 min conversation and 15 min demo."
 
 - name: "dbt Office Hours: Delivering Data On-time, Every Day"
@@ -178,7 +178,7 @@
   start: October 13, 2020
   location: Online (Crowdcast)
   url: https://www.crowdcast.io/e/dbt-office-hours
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Sean McIntyre, Principal Data Engineer at Warby Parker, will go over the company’s approach to delivering data to their reporting systems on-time. Learn why it’s important to their team and how you can start to do it yourself!"
 
 - name: "dbt Office Hours: Building out an entity resolution pipeline with Python and dbt"
@@ -186,7 +186,7 @@
   start: October 1, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSdRPWx83TJFMma2QkM50XfLLnazDcFDkdkkMGVJ3HKEvKoy0Q/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "In this Office Hours, Pedram from Vouch Insurance will share how they built out an entity resolution pipeline, using a combination of both dbt and python."
 
 - name: "Faster Data Modeling with Looker and dbt"
@@ -194,7 +194,7 @@
   start: October 1, 2020
   location: Online
   url: https://discover.looker.com/dbtFishtownDataModeling.html?utm_source=partnet_fishtown&utm_medium=email&utm_campaign=7014W000001ANpXQAW&utm_term=noram&utm_content=fishtownwebinar
-  image: https://i.imgur.com/JJRLgtl.jpg
+  image: https://i.imgur.com/e2lDd5N.jpg
   description: "Join this event to learn how data teams are using Looker and dbt to help analysts deliver results faster. You’ll get a deep dive into Drizly’s process and how they choose what to model in dbt vs Looker and the ways the tools become stronger together."
 
 - name: "Coalesce 2020 Online"
@@ -202,7 +202,7 @@
   start: December 7, 2020
   location: Online
   url: https://www.getdbt.com/coalesce/
-  image: https://imgur.com/bqFrpVI.jpg
+  image: https://i.imgur.com/tFyr1dl.jpg
   description: "Coalesce 2020 is a dbt community event dedicated to advancing the practice of analytics engineering."
 
 - name: "Let's Talk: Analytics Engineering Brainstorm"
@@ -210,7 +210,7 @@
   start: September 9, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSelPj3N1-875C4-5-flU8Wi516wD8uEIwhl44leeiLsilHsSw/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "We invite you to participate in a brainstorming session with our professional services team. The conversation will be focused on how we can provide solutions to shared pain points in analytics engineering."
 
 - name: "NYC dbt Meetup Online"
@@ -218,7 +218,7 @@
   start: September 2, 2020
   location: Online (Zoom)
   url: https://www.meetup.com/NYC-dbt-Meetup/events/272483410/
-  image: https://i.imgur.com/j9U8P2y.jpg
+  image: https://i.imgur.com/Ovx9haG.jpg
   description: "dbt Meetups are networking events open to all folks working with data! Talks predominantly focus on community members’ experience with dbt, however, you'll catch presentations on broader topics such as analytics engineering, data stacks, data ops, modeling, testing, and team structures. This session will feature the data analytics teams at Zoox and DataSF."
 
 - name: "Conversation with Fishtown Analytics Founder, Tristan Handy: Are Dashboards Dead?"
@@ -226,7 +226,7 @@
   start: August 26, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSfRO1uabzYrKe80zOHeLBiH9Om0m0DO7r_OqYNjCkrZsDxKSQ/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Join us for a conversation investigating solutions for using dashboards to empower yourself (and others) to do meaningful work. "
 
 - name: "0.18.0 release: Join dbt Product Manager, Jeremy Cohen, for a look at what's coming"
@@ -234,7 +234,7 @@
   start: August 18, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLScXCNeaAjroOPJIVWLrOS9uN3X3Eov9pY3_FKr9_W4TOoaWeQ/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Node selection, ‘Slim CI’, and adapter macros are a few of the things coming in the 0.18.0 release. Join Jeremy Cohen for a look at what's coming, learn about features the Fishtown Analytics team is most excited about, and get your questions answered."
 
 - name: "dbt Learn (UTC-4/East Coast)"
@@ -242,7 +242,7 @@
   start: December 14, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/402806
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC+1/London)"
@@ -250,7 +250,7 @@
   start: November 18, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/402803
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC+10/Sydney)"
@@ -258,7 +258,7 @@
   start: November 3, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/402794
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC-7/West Coast)"
@@ -266,7 +266,7 @@
   start: October 14, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/402735
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "The Future of Data Conference 2020"
@@ -274,7 +274,7 @@
   start: September 8, 2020
   location: Online
   url: https://www.futuredata.org/
-  image: https://imgur.com/bqFrpVI.jpg
+  image: https://i.imgur.com/tFyr1dl.jpg
   description: "Fostering a community of researchers, practitioners, and business leaders committed to building the next generation of data-intensive systems."
 
 - name: "dbt Office Hours: How Clearbit builds & shares a single view of its customers (ft. dbt & Census)"
@@ -282,7 +282,7 @@
   start: August 10, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSdtsyWHMWS-U6VrMX78S9m4_DUGflxskuaCbIRaaBc5CyhlUA/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Julie Beynon will discuss the state of the data infrastructure when she joined Clearbit and their approach to implementing change. Learn how she was able to use dbt to unify the data from 10+ data sources to create a golden record of their users. Also, discover how she used Census to sync that data back to business tools."
 
 - name: "The Future of Data Governance"
@@ -290,7 +290,7 @@
   start: July 28, 2020
   location: Online
   url: https://mode.com/future-of-data-governance
-  image: https://i.imgur.com/JJRLgtl.jpg
+  image: https://i.imgur.com/e2lDd5N.jpg
   description: "Join Benn Stancil, President and Co-Founder at Mode; Tristan Handy, CEO and Founder at Fishtown Analytics; Christopher Holliday, Senior VP at Visual BI Solutions; and Michelle Ballen, Director of Data & Analytics at Billie for a discussion around the future of data governance."
 
 - name: "dbt Office Hours: Managing Snowflake Architecture with Terraform and dbt"
@@ -298,7 +298,7 @@
   start: July 28, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSehh3UvTga1CrZOQ1TJmQP3VsxENr2-_A67gPIzC1K7-uyoTg/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "This online session feature the approach that Ritual used to set up a complete CI/CD analytics platform on Snowflake, using Terraform and dbt. Learn how Terraform can be used to implement the classic RAW and ANALYTICS database and permissions approach, outlined in the ‘How we configure Snowflake’ article."
 
 - name: San Francisco dbt Meetup (online)
@@ -306,7 +306,7 @@
   start: July 30, 2020
   location: Online
   url: https://www.meetup.com/SF-dbt-Meetup/events/271607252/
-  image: https://i.imgur.com/j9U8P2y.jpg
+  image: https://i.imgur.com/Ovx9haG.jpg
   description: "dbt Meetups are networking events open to all folks working with data! Talks predominantly focus on community members’ experience with dbt, however, you'll catch presentations on broader topics such as analytics engineering, data stacks, data ops, modeling, testing, and team structures. This session will feature the data analytics teams at Zoox and DataSF."
 
 - name: "dbt Office Hours: Using Airflow to Orchestrate dbt"
@@ -314,7 +314,7 @@
   start: July 14, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLScttEXW59FywneKStjm5GjfCKAVMtfr_JTTLh8O4dRIgaM7FA/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Nehil Jain, Senior Data & Infrastructure Engineer at SnapTravel, will share some tips on scheduling dbt production runs using airflow. You will get a chance to look at a code sample on how to set it up and participate in a discussion with other community members."
 
 - name: "dbt Office Hours: Efficient CI/CD for dbt"
@@ -322,7 +322,7 @@
   start: July 1, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSeOk9cHkVeKsU6eJoRTTAOTOflgDaWpgTvf2Mb48khFM3dijQ/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Learn how Clearcover recently improved its CI/CD process for dbt, using AWS Codebuild and Github, to reduce build times by 80%."
 
 - name: "dbt Learn (UTC-7/West Coast)"
@@ -330,7 +330,7 @@
   start: July 15, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/382651
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC+1/London)"
@@ -338,7 +338,7 @@
   start: August 12, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/382716
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn:(UTC-4/East Coast)"
@@ -346,7 +346,7 @@
   start: September 16, 2020
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/382719
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Office Hours: Materialized Views"
@@ -354,7 +354,7 @@
   start: June 16, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLScVQh9p-W6nryIVwSt1D8-A_OquaSoblp6-vJ3WxwEiNMusjg/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: "Jeremy will be giving an overview of materialized views including: what they intend to do, how each data warehouse's implementation differs and how (unfortunately) they are not the end of dbt materializations as we know them. He'll also discuss our plan for testing out and supporting 'experimental' features moving forward."
 
 - name: How Nearmap increased analytics velocity with Snowflake and dbt
@@ -362,7 +362,7 @@
   start: June 05, 2020
   location: Online
   url: https://www.snowflake.com/webinar/how-nearmap-increased-analytics-velocity-with-snowflake-dbt/?utm_source=dbt&utm_medium=referral&utm_campaign=dbt
-  image: https://i.imgur.com/JJRLgtl.jpg
+  image: https://i.imgur.com/e2lDd5N.jpg
   description: Join Jonathan Mak from Nearmap, to learn why Nearmap adopted a modern analytics engineering workflow using dbt, and see how Snowflake has proven to be the best cloud data platform to support that workflow.
 
 - name: Building a productive data organization at HubSpot with Snowflake and dbt
@@ -370,7 +370,7 @@
   start: June 11, 2020
   location: Online
   url: https://www.snowflake.com/webinar/snowflake-dbt-hubspot/?utm_source=dbt&utm_medium=referral&utm_campaign=webinar-dbt&utm_partner=dbt
-  image: https://i.imgur.com/JJRLgtl.jpg
+  image: https://i.imgur.com/e2lDd5N.jpg
   description: Join James Densmore, HubSpot’s Director of Data Infrastructure, to learn about the tools and workflows HubSpot is adopting to keep the data team productive as it grows.
 
 - name: Office Hours — Spark + dbt
@@ -378,7 +378,7 @@
   start: May 26, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSecBN2PVOBl8WrJbbAK4p04x-PlzD2NL06qLqjlEIbdhdlKMQ/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: Join Fokko Driesprong from GoDataDriven to learn about Spark, and how it works with dbt.
 
 - name: London dbt Meetup
@@ -386,7 +386,7 @@
   start: May 19, 2020
   location: Online
   url: https://www.meetup.com/London-dbt-Meetup/events/270490449/
-  image: https://i.imgur.com/j9U8P2y.jpg
+  image: https://i.imgur.com/Ovx9haG.jpg
   description: For our first remote London Meetup, the team at RVU are going to discuss their recent productivity hack-day and how they have improved the development flow for all of their analysts.
 
 - name: How Ritual's Ecommerce Data Stack Powers Their Customer Retention Program
@@ -394,7 +394,7 @@
   start: May 28, 2020
   location: Online
   url: https://get.fivetran.com/wbn-customer-retention-dbt.html?utm_source=dbt&utm_medium=eventspage&utm_campaign=ritual-customer-retention&utm_content=
-  image: https://i.imgur.com/JJRLgtl.jpg
+  image: https://i.imgur.com/e2lDd5N.jpg
   description: Join Brett Trani, Director of Data and Analytics at Ritual, and explore the data stack that powers Ritual's customer retentiton program.
 
 - name: Office Hours with Fivetran
@@ -402,7 +402,7 @@
   start: May 12, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSd-gXSjh3f80ElLvBNxRo9MZ9AOH7Gg_OfwUCUQOTVhT5Vkcw/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: Join Kirstin Bagnall from Fivetran to learn how to build packages for the dbt community.
 
 - name: Office Hours with Canva
@@ -410,7 +410,7 @@
   start: May 6, 2020
   location: Online (Zoom)
   url: https://docs.google.com/forms/d/e/1FAIpQLSfvs7GjopYbi3wj1EMtD8uY6KL7Gw-AsTguAsA61RzurtRdDw/viewform
-  image: https://i.imgur.com/GnpKXNo.jpg
+  image: https://i.imgur.com/XZpVJpU.jpg
   description: See how Canva moves data from Snowflake into the SaaS tools their business uses.
 
 - name: Boston dbt Meetup
@@ -418,7 +418,7 @@
   start: May 8, 2020
   location: Online (Zoom)
   url: https://www.meetup.com/Boston-dbt-Meetup/events/270162545/
-  image: https://i.imgur.com/j9U8P2y.jpg
+  image: https://i.imgur.com/Ovx9haG.jpg
   description: Learn how data teams at Wistia and HubSpot are improving their workflow with dbt.
 
 - name: New York dbt Meetup
@@ -426,7 +426,7 @@
   start: June 12, 2020
   location: Online (Zoom)
   url: https://www.meetup.com/NYC-dbt-Meetup/events/270163038/
-  image: https://i.imgur.com/j9U8P2y.jpg
+  image: https://i.imgur.com/Ovx9haG.jpg
   description: Welcome to the first online-only NYC Meetup! We are disappointed we can't meet in person, but are still looking forward to seeing your friendly faces on Zoom.
 
 - name: dbt Learn (UTC-4/East Coast)
@@ -434,7 +434,7 @@
   start: June 10, 2020
   location: Distributed
   url: https://buytickets.at/fishtownanalytics/367695
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: dbt Learn (UTC-7/West Coast)
@@ -442,7 +442,7 @@
   start: May 27, 2020
   location: Distributed
   url: https://buytickets.at/fishtownanalytics/367694
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: dbt Learn (UTC+1/London)
@@ -450,7 +450,7 @@
   start: May 13, 2020
   location: Distributed
   url: https://buytickets.at/fishtownanalytics/367693
-  image: https://i.imgur.com/p2MYMT5.jpg
+  image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: dbt Learn (UTC-4/East Coast)
