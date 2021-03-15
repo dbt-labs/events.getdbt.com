@@ -5,6 +5,22 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "NYC dbt Meetup Online"
+  type: Meetup
+  start: April 13, 2021
+  location: Online
+  url: https://www.meetup.com/NYC-dbt-Meetup/events/276852045/
+  image: https://i.imgur.com/Ovx9haG.jpg
+  description: "Brooklyn Data Co. is excited to be teaming up with dbt to host the NYC meetups! Connect with the community at April's event."
+
+- name: "dbt How-to Hour: Keeping on top of your dbt documentation with dbt-sugar"
+  type: How-to Hours
+  start: March 23, 2021
+  location: Online
+  url: https://fishtownanalytics.zoom.us/meeting/register/tZAkfuuppzwuHNGWBKy0Gc0Mxl4pm3GlFXiY
+  image: https://i.imgur.com/VXXrRBL.jpg
+  description: "Bastien and Virginia, the creators of the dbt-sugar package, will walk you through an alpha demo of the tool, share their roadmap for the future, and share tips for making your documentation life a bit sweeter."
+
 - name: "dbt Learn (UTC-4/East Coast)"
   type: Education
   start: June 16, 2021
