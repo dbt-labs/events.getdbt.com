@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "Analytics Engineering Meetup"
+  type: Meetup
+  start: March 31, 2021
+  location: Online
+  url: https://www.meetup.com/analytics-engineering/events/276687573
+  image: https://i.imgur.com/Ovx9haG.jpg
+  description: "Join Sean McIntyre, Solutions Architect at Fishtown Analytics, for a presentation about the state of testing in dbt."
+
 - name: "NYC dbt Meetup Online"
   type: Meetup
   start: April 13, 2021
