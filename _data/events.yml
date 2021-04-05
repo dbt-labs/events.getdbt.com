@@ -5,6 +5,38 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt Learn (UTC+11/Sydney)"
+  type: Education
+  start: May 26-28, 2021
+  location: Distributed
+  url: https://www.tickettailor.com/events/fishtownanalytics/503136
+  image: https://i.imgur.com/7SJyC9L.jpg
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+
+- name: "San Francisco dbt Meetup online"
+  type: Meetup
+  start: May 6, 2021
+  location: Online
+  url: https://www.meetup.com/SF-dbt-Meetup/events/277260630/
+  image: https://i.imgur.com/Ovx9haG.jpg
+  description: "dbt Meetups are gatherings dedicated to helping you own your analytics engineering workflow. Events will focus on the impact of dbt (data based tool) in the data community and professional development tools for analytics engineers."
+
+- name: "Boston dbt Meetup online"
+  type: Meetup
+  start: May 26, 2021
+  location: Online
+  url: https://www.meetup.com/Boston-dbt-Meetup/events/277260412/
+  image: https://i.imgur.com/Ovx9haG.jpg
+  description: "dbt Meetups are gatherings dedicated to helping you own your analytics engineering workflow. Events will focus on the impact of dbt (data based tool) in the data community and professional development tools for analytics engineers."
+
+- name: "London dbt Meetup online"
+  type: Meetup
+  start: April 29, 2021
+  location: Online
+  url: https://www.meetup.com/London-dbt-Meetup/events/277256252/
+  image: https://i.imgur.com/Ovx9haG.jpg
+  description: "dbt Meetups are gatherings dedicated to helping you own your analytics engineering workflow. Events will focus on the impact of dbt (data based tool) in the data community and professional development tools for analytics engineers."
+
 - name: "Analytics Engineering Meetup"
   type: Meetup
   start: March 31, 2021
