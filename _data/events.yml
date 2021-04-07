@@ -11,7 +11,7 @@
   location: Distributed
   url: https://www.tickettailor.com/events/fishtownanalytics/503136
   image: https://i.imgur.com/7SJyC9L.jpg
-  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
+  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow. This training will be taught by the Servian team."
 
 - name: "San Francisco dbt Meetup online"
   type: Meetup
@@ -61,14 +61,6 @@
   image: https://i.imgur.com/VXXrRBL.jpg
   description: "Bastien and Virginia, the creators of the dbt-sugar package, will walk you through an alpha demo of the tool, share their roadmap for the future, and share tips for making your documentation life a bit sweeter."
 
-- name: "dbt Learn (UTC-4/East Coast)"
-  type: Education
-  start: June 16, 2021
-  location: Distributed
-  url: https://www.tickettailor.com/events/fishtownanalytics/486757
-  image: https://i.imgur.com/7SJyC9L.jpg
-  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
-
 - name: "dbt Learn (UTC+1/London)"
   type: Education
   start: June 3, 2021
@@ -77,13 +69,6 @@
   image: https://i.imgur.com/7SJyC9L.jpg
   description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
-- name: "dbt Learn (UTC-7/West Coast)"
-  type: Education
-  start: May 19, 2021
-  location: Distributed
-  url: https://www.tickettailor.com/events/fishtownanalytics/486755
-  image: https://i.imgur.com/7SJyC9L.jpg
-  description: "dbt Learn is a two-day training program that teaches analysts the tools and knowledge needed to own the entire analytics engineering workflow."
 
 - name: "dbt Learn (UTC-4/East Coast)"
   type: Education
