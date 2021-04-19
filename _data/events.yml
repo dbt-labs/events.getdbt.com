@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt 101"
+  type: dbt 101
+  start: June 3, 2021
+  location: Online
+  url: https://fishtownanalytics.zoom.us/meeting/register/tZIud-GvrTMvEtaXAL9ZvINqzjZY6Uy1eZN2
+  image: https://i.imgur.com/8f7nHZE.jpg
+  description: "If you’re new to dbt, start here. At dbt 101, we will walk you through core concepts, technical requirements, and the best ways to use the tool."
+
 - name: "dbt Learn (UTC+11/Sydney)"
   type: Education
   start: May 26, 2021
