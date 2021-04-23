@@ -5,6 +5,22 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt How-to Hour: Assessing and Enforcing Test Coverage in dbt"
+  type: How-to Hours
+  start: May 4, 2021
+  location: Online
+  url: https://fishtownanalytics.zoom.us/meeting/register/tZAtcu6oqDouGNVoS2kih8hyhIctisrJeldp
+  image: https://i.imgur.com/VXXrRBL.jpg
+  description: "This talk will demonstrate how to set up a dbt project to gently require test and documentation coverage using the dbt-meta-testing package."
+
+- name: "dbt 101"
+  type: dbt 101
+  start: June 3, 2021
+  location: Online
+  url: https://fishtownanalytics.zoom.us/meeting/register/tZIud-GvrTMvEtaXAL9ZvINqzjZY6Uy1eZN2
+  image: https://i.imgur.com/8f7nHZE.jpg
+  description: "If you’re new to dbt, start here. At dbt 101, we will walk you through core concepts, technical requirements, and the best ways to use the tool."
+
 - name: "dbt Learn (UTC+11/Sydney)"
   type: Education
   start: May 26, 2021
