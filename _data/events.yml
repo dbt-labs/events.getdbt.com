@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "Analytics Engineering Meetup, 2nd Edition"
+  type: Meetup
+  start: May 12, 2021
+  location: Online
+  url: https://www.meetup.com/analytics-engineering/events/277519420
+  image: https://i.imgur.com/Ovx9haG.jpg
+  description: "This is a meetup for data scientists, BI professionals, data engineers, analysts and literally everybody else interested in data democratization, analytics, or how the data landscape is evolving."
+
 - name: "dbt How-to Hour: Assessing and Enforcing Test Coverage in dbt"
   type: How-to Hours
   start: May 4, 2021
