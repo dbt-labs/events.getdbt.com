@@ -5,6 +5,22 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: Data for AI:‘AI in Finance: Impact, Applications & Adoption’ with Sravan Kasarla, CDO of Thrivent - (11:30 AM - 1 PM ET)
+  type: Data for AI Community Monthly Event
+  start: June, 3rd, 2021
+  location: Virtual Event
+  url: https://events.cognilytica.com/CLNTM3MHwxOA 
+  image: https://imgur.com/a/F6kqXaw
+  description: Sravan will discuss how AI is currently being applied in financial services, where the financial services industry rates in their adoption of AI compared to other industries, as well as how can companies create a responsive business especially from an AI perspective.
+
+  name: Data for AI:‘Leveraging easy-to-use ML, NLP & Interactive 3D Data Visualization to Uncover Key Insights’ with Ciro Donalek, CSO & Co-founder & Sagar Indurkhya, Head of NLP at Virtualitics (12PM - 1PM ET)
+  type: Data for AI Community Event
+  start: June 10th, 2021
+  location: Virtual Event
+  url: https://events.cognilytica.com/CLNTUzNHwxOA
+  image: https://imgur.com/a/DkMjwAK
+  description: Virtualitics will show how Explainable AI, storytelling and Natural Language Processing (NLP) can make black box ML models more transparent, thereby enabling non-technical users to harness the power of ML to discover actionable insights from complex data faster than with traditional data analytics tools and communicate these insights to key stakeholders.
+  
 - name: "dbt How-to Hour: Ain't no table wide enough"
   type: How-to Hours
   start: June 16, 2021
