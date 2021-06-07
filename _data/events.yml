@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "June Edition, Sydney dbt Meetup"
+  type: How-to Hours
+  start: June 9, 2021
+  location: Online
+  url: https://www.meetup.com/Sydney-dbt-Meetup/events/278542699/
+  image: https://i.imgur.com/VXXrRBL.jpg
+  description: "Join us for the first in-person Sydney dbt Meetup of the year!"
+
 - name: "dbt How-to Hour: Ain't no table wide enough"
   type: How-to Hours
   start: June 16, 2021
