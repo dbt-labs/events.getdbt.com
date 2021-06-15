@@ -5,13 +5,13 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
-- name: "June Edition, Sydney dbt Meetup"
-  type: How-to Hours
-  start: June 9, 2021
-  location: Online
-  url: https://www.meetup.com/Sydney-dbt-Meetup/events/278542699/
-  image: https://i.imgur.com/VXXrRBL.jpg
-  description: "Join us for the first in-person Sydney dbt Meetup of the year!"
+- name: "Transforming your Data Team with dbt: Announcing the FIRN dbt partnership"
+  type: In-person event
+  start: July 8, 2021
+  location: The Lounge, Stanbeth House, 22-28 Customs Street East, Auckland, NZ
+  url: https://blog.firn.nz/firn-dbt-launch-registration
+  image: https://imgur.com/W9KkzTI.jpg
+  description: "Join us, as we take our newest transformational software partner for a drive. See how dbt functions inside the data warehouse of Snowflake."
 
 - name: "dbt How-to Hour: Ain't no table wide enough"
   type: How-to Hours
