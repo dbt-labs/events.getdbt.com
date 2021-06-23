@@ -1,10 +1,19 @@
-# - name: title
-#   type: short label
-#   start: Month Day, Year
-#   location: City, Province, Country
-#   url: external url
-#   image: external url
-#   description: sentence or two (max 60 words)
+# -name: 'Patient Safety, Laboratory Interoperability, and SHIELD with Gregory Pappas, Associate Director for National Surveillance at the FDA'!
+# type: Webinar
+# start: July 1, 2021
+# Online Event
+# url: https://events.cognilytica.com/CLNTM3NnwyMQ 
+# image: N/A
+# description: Gregory will set out current barriers to laboratory interoperability and the SHIELD Strategic Planning Effort that is currently underway.
+
+#-name: AI in Government: AI Policy Panel with the GSA, NSF, NASA and Microsoft
+# type: Webinar
+# start: July 15, 2021
+# Online Event
+# url: https://events.cognilytica.com/CLNDM2OHwxOA
+# image: N/A
+# description: This panel will discuss the benefits, risks, and challenges associated with AI policy and regulation as well as discuss AI policies and regulations currently being discussed/enforced at various agencies.
+
 - name: "London dbt Meetup online"
   type: Meetup
   start: July 15, 2021
