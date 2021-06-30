@@ -22,7 +22,7 @@
   description: "Join us, as we take our newest transformational software partner for a drive. See how dbt functions inside the data warehouse of Snowflake."
 
 - name: "AMA! With Tristan & Drew"
-  type: AMA
+  type: Office Hours
   start: July 7, 2021
   location: Online
   url: https://www.crowdcast.io/e/ama-tristan-drew
