@@ -21,7 +21,7 @@
   image: https://imgur.com/W9KkzTI.jpg
   description: "Join us, as we take our newest transformational software partner for a drive. See how dbt functions inside the data warehouse of Snowflake."
 
-  - name: "AMA! With Tristan & Drew"
+- name: "AMA! With Tristan & Drew"
   type: AMA
   start: July 7, 2021
   location: Online
