@@ -30,6 +30,14 @@
   image: https://imgur.com/W9KkzTI.jpg
   description: "Join us, as we take our newest transformational software partner for a drive. See how dbt functions inside the data warehouse of Snowflake."
 
+- name: "AMA! With Tristan & Drew"
+  type: AMA
+  start: July 7, 2021
+  location: Online
+  url: https://www.crowdcast.io/e/ama-tristan-drew
+  image: https://i.imgur.com/XZpVJpU.jpg
+  description: "As Fishtown Analytics becomes dbt Labs, join Co-Founders Tristan Handy & Drew Banin for an AMA on the past, present and future of dbt."
+
 - name: "dbt How-to Hour: Ain't no table wide enough"
   type: How-to Hours
   start: June 16, 2021
