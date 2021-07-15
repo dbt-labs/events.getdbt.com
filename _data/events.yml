@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "Coalesce 2021"
+  type: Conference, Hosted by dbt Labs
+  start: December 6, 2021
+  location: Online
+  url: https://coalesce.getdbt.com/
+  image: https://i.imgur.com/tFyr1dl.jpg
+  description: "Coalesce 2021 is an online conference dedicated to the advancement and practice of analytics engineering."
+
 - name: "AI in Government: AI Policy Panel with the GSA, NSF, NASA and Microsoft"
   type: Webinar
   start: July 15, 2021
@@ -37,7 +45,7 @@
   type: Webinar
   start: July 1, 2021
   location: Online Event
-  url: https://events.cognilytica.com/CLNTM3NnwyMQ 
+  url: https://events.cognilytica.com/CLNTM3NnwyMQ
   description: Gregory will set out current barriers to laboratory interoperability and the SHIELD Strategic Planning Effort that is currently underway.
 - name: "dbt How-to Hour: Ain't no table wide enough"
   type: How-to Hours
