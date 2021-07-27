@@ -5,6 +5,36 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "Brasil dbt Meetup online"
+  type: Meetup
+  start: August 18, 2021
+  location: Online
+  url: https://www.meetup.com/data-build-tool-dbt-brasil-virtual/events/279716578/
+
+- name: "San Francisco dbt Meetup in-person"
+  type: Meetup
+  start: September 16, 2021
+  location: TBA
+  url: https://www.meetup.com/SF-dbt-Meetup/events/
+
+- name: "Berlin dbt Meetup in-person"
+  type: Meetup
+  start: September 23, 2021
+  location: TBA
+  url: https://www.meetup.com/berlin-dbt-meetup/events/279613942/
+
+- name: "Chicago dbt Meetup in-person"
+  type: Meetup
+  start: September 23, 2021
+  location: TBA
+  url: https://www.meetup.com/chicago-dbt-meetup/events/
+
+- name: "Boston dbt Meetup in-person"
+  type: Meetup
+  start: September 30, 2021
+  location: TBA
+  url: https://www.meetup.com/Boston-dbt-Meetup/events/
+
 - name: "Coalesce 2021"
   type: Conference, Hosted by dbt Labs
   start: December 6, 2021
@@ -19,11 +49,13 @@
   location: Online Event
   url: https://events.cognilytica.com/CLNDM2OHwxOA
   description: This panel will discuss the benefits, risks, and challenges associated with AI policy and regulation as well as discuss AI policies and regulations currently being discussed/enforced at various agencies.
+
 - name: "London dbt Meetup online"
   type: Meetup
   start: July 15, 2021
   location: Online
   url: https://www.meetup.com/London-dbt-Meetup/events/278999140/
+
   image: https://i.imgur.com/Ovx9haG.jpg
   description: "dbt Meetups are gatherings dedicated to helping you own your analytics engineering workflow. Events will focus on the impact of dbt (data based tool) in the data community and professional development tools for analytics engineers."
 - name: "Transforming your Data Team with dbt: Announcing the FIRN dbt partnership"
