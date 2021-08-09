@@ -5,6 +5,14 @@
 #   url: external url
 #   image: external url
 #   description: sentence or two (max 60 words)
+- name: "dbt How-to Hours: Using Spectacles to ensure dbt changes never break Looker"
+  type: How-to Hours
+  start: August 17, 2021
+  location: Online
+  url: https://dbtlabs.zoom.us/meeting/register/tZYtduyrqjwiHNM-lBk_8hnMmvsyScR8_7Gk
+  image: https://i.imgur.com/VXXrRBL.jpg
+  description: "The team from Spectacles will be demoing new Spectacles functionality!"
+
 - name: "Brasil dbt Meetup online"
   type: Meetup
   start: August 18, 2021
