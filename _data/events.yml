@@ -20,28 +20,28 @@
   image: https://i.imgur.com/Ovx9haG.jpg
   url: https://www.meetup.com/data-build-tool-dbt-brasil-virtual/events/279716578/
 
-- name: "San Francisco dbt Meetup in-person"
+- name: "San Francisco dbt Meetup online"
   type: Meetup
   start: September 16, 2021
   location: TBA
   image: https://i.imgur.com/Ovx9haG.jpg
   url: https://www.meetup.com/SF-dbt-Meetup/events/
 
-- name: "Berlin dbt Meetup in-person"
+- name: "Berlin dbt Meetup online"
   type: Meetup
   start: September 23, 2021
   location: TBA
   image: https://i.imgur.com/Ovx9haG.jpg
   url: https://www.meetup.com/berlin-dbt-meetup/events/279613942/
 
-- name: "Chicago dbt Meetup in-person"
+- name: "Chicago dbt Meetup online"
   type: Meetup
   start: September 23, 2021
   location: TBA
   image: https://i.imgur.com/Ovx9haG.jpg
   url: https://www.meetup.com/chicago-dbt-meetup/events/
 
-- name: "Boston dbt Meetup in-person"
+- name: "Boston dbt Meetup online"
   type: Meetup
   start: September 30, 2021
   location: TBA
