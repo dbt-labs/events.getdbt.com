@@ -776,3 +776,12 @@
   url: https://www.eventbrite.com/e/dbt-learn-june-2019-tickets-60106821120
   image: https://images.unsplash.com/photo-1466584697290-f1a1259f857b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60
   description: "dbt Learn in June will be a two day in-person training program designed to empower analysts. The only technical requirements needed is a practical knowledge of SQL, leave the rest to us!"
+
+
+- name: dbt Meetup at Lagos, Nigeria
+  type: Meetup
+  start: October 14, 2021
+  location: Lagos, Nigeria
+  url: https://www.meetup.com/lagos-dbt-meetup/events/
+  image: https://secure.meetupstatic.com/photos/event/c/9/1/a/clean_498711482.jpeg
+  description: "This virtual event is hosted by Rosie and open to all folks working with data—while we'll predominantly focus on people's experience with dbt, we're also very interested in broader topics that apply to modern data teams, such as data stacks, data ops, modeling, testing, and team structures."
