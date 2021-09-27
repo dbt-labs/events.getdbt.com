@@ -7,6 +7,8 @@ owner: http://github.com/fishtown-analytics
 repo: https://github.com/fishtown-analytics/events.getdbt.com
 robots: true
 
+include: [_redirects]
+
 nav_links:
   home: https://www.getdbt.com
   slack: https://community.getdbt.com
